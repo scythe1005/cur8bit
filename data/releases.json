@@ -1,0 +1,48 @@
+[
+  {
+    "id": "Magnolia",
+    "title": "Magnolia (Original) [YM2151 + SEGA PCM]",
+    "artwork": "https://pbs.twimg.com/profile_images/2025429623735996416/M09GQHZy_400x400.jpg",
+    "country": "Chile",
+    "artists": [
+      "MegaBaz"
+    ],
+    "year": 2024,
+    "vocal": "no",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=5W-4REk6Ff4"
+    },
+    "comment": "ほとんどyoutubeにしか曲を上げてくれない+オリジナルが少ないのですが毎回素晴らしい曲を書きます。"
+  },
+  {
+    "id": "single and simple vol. 2",
+    "title": "single and simple vol. 2",
+    "artwork": "https://f4.bcbits.com/img/a2845967458_10.jpg",
+    "country": "Malaysia",
+    "artists": [
+      "John \"Joy\" Tay"
+    ],
+    "year": 2026,
+    "vocal": "no",
+    "links": {
+      "bandcamp": "https://johntayjinf.bandcamp.com/album/single-and-simple-vol-2"
+    },
+    "comment": "2024年リリースのシングルなどをまとめたリリース。特にトラック6のbeach theme or smthが泣くほど良い。2024年ベストチップチューン。"
+  },
+  {
+    "id": "ONE PLANET",
+    "title": "ONE PLANET",
+    "artwork": "https://storage.googleapis.com/studio-design-asset-files/projects/moWvkoylO6/s-500x500_webp_e9870630-2598-464c-8aa3-12db7f33a0cf.webp",
+    "country": "Japan",
+    "artists": [
+      "るなっち☆ほし"
+    ],
+    "year": 2024,
+    "vocal": "yes",
+    "links": {
+      "Spotify": "https://open.spotify.com/intl-ja/track/0ePwXCV19YazYq3o0VE4Ia?si=9211e94c48354834",
+      "youtube": "https://www.youtube.com/watch?v=musCnf9yhEE"   
+    },
+    "comment": ""
+  }
+]

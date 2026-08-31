@@ -1,17 +1,220 @@
 body {
   margin: 0;
+  padding: 80px;
   font-family: sans-serif;
-  background: #ffffff;
-  color: #222222;
+  background: #030531;
+  color: #ffffff;
 }
 
-header,
-main {
-  max-width: 1200px;
-  margin: 0 auto;
-  padding: 40px 20px;
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  margin-bottom: 40px;
+}
+
+.site-header-info h1 {
+  margin: 0;
+}
+
+.site-description {
+  margin: 8px 0 0;
+  font-size: 0.9rem;
+  opacity: 0.7;
+}
+
+header nav {
+  display: flex;
+  gap: 20px;
+}
+
+header nav a {
+  color: inherit;
+  text-decoration: none;
+}
+
+header nav a:hover {
+  opacity: 0.6;
 }
 
 h1 {
   margin-bottom: 8px;
+}
+
+#release-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(180px, 250px));
+  gap: 30px;
+}
+
+.release-card {
+  cursor: pointer;
+}
+
+.release-card img {
+  width: 100%;
+  aspect-ratio: 1 / 1;
+  object-fit: cover;
+  display: block;
+}
+
+.release-card h3 {
+  margin: 12px 0 4px;
+  font-size: 16px;
+}
+
+.release-card p {
+  margin: 2px 0;
+}
+
+.release-card a {
+  color: inherit;
+  text-decoration: none;
+}
+
+.release-card a:hover {
+  opacity: 0.75;
+}
+
+.release-detail {
+  display: grid;
+  grid-template-columns: minmax(300px, 600px) 1fr;
+  gap: 50px;
+  align-items: start;
+}
+
+.release-artwork {
+  width: 100%;
+  display: block;
+}
+
+.release-info h2 {
+  margin-top: 0;
+}
+
+.release-artists {
+  font-size: 1.2rem;
+}
+
+@media (max-width: 700px) {
+  #release-grid {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 15px;
+  }
+
+  .release-detail {
+    grid-template-columns: 1fr;
+    gap: 30px;
+  }
+}
+
+.release-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin-top: 25px;
+}
+
+.release-links a {
+  display: inline-block;
+  padding: 8px 14px;
+  border: 1px solid currentColor;
+  text-decoration: none;
+  color: inherit;
+}
+
+.release-links a:hover {
+  opacity: 0.6;
+}
+
+.artist-link {
+  color: inherit;
+  text-decoration: underline;
+}
+
+.artist-link:hover {
+  opacity: 0.6;
+}
+
+.release-card .artist-link {
+  text-decoration: underline;
+}
+
+.site-title {
+  color: white;
+  text-decoration: none;
+}
+
+.site-title:hover {
+  color: white;
+  text-decoration: none;
+}
+
+#artist-list {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 15px 30px;
+}
+
+.artist-list-item a {
+  color: inherit;
+  text-decoration: underline;
+}
+
+.artist-list-item a:hover {
+  opacity: 0.6;
+}
+
+@media (max-width: 700px) {
+  #artist-list {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  body {
+    padding: 20px;
+  }
+
+  header {
+    flex-direction: column;
+    gap: 20px;
+  }
+
+  header nav {
+    gap: 15px;
+  }
+}
+
+#filters {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin-bottom: 30px;
+}
+
+#filters select {
+  padding: 8px 12px;
+  font-size: 14px;
+  background: white;
+  border: 1px solid #ccc;
+}
+
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 40px;
+}
+
+header nav {
+  display: flex;
+  gap: 20px;
+}
+
+header nav a {
+  color: inherit;
+  text-decoration: none;
+}
+
+header nav a:hover {
+  opacity: 0.6;
 }
