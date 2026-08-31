@@ -46,5 +46,22 @@
       "youtube": "https://www.youtube.com/watch?v=musCnf9yhEE"   
     },
     "comment": ""
+  },
+  {
+    "id": "Il fait beau",
+    "title": "Il fait beau",
+    "artwork": "https://f4.bcbits.com/img/a2408212576_10.jpg",
+    "country": "Japan",
+    "artists": [
+      "M.S"
+    ],
+    "year": 2026,
+    "vocal": "no",
+    "links": {
+      "bandcamp": "https://megafepps1992.bandcamp.com/album/mfcd-024-il-fait-beau",
+      "spotify": "",
+      "youtube": ""   
+    },
+    "comment": ""
   }
 ]
