@@ -64,33 +64,39 @@ function displayRelease(release) {
     `);
   }
 
-  container.innerHTML = `
-    <article class="release-detail">
+container.innerHTML = `
+  <article class="release-detail">
 
-      <img
-        class="release-artwork"
-        src="${release.artwork}"
-        alt="${release.artists.join(", ")} - ${release.title}"
-      >
+    <img
+      class="release-artwork"
+      src="${release.artwork}"
+      alt="${release.artists.join(", ")} - ${release.title}"
+    >
 
-      <div class="release-info">
+    <div class="release-info">
 
-        <h2>${release.title}</h2>
+      <h2>${release.title}</h2>
 
-        <p class="release-artists">
-          ${artistLinks}
-        </p>
+      <p class="release-artists">
+        ${artistLinks}
+      </p>
 
-        <p>${release.year}</p>
+      <p>${release.year}</p>
 
-        <p>${release.country}</p>
+      <p>${release.country}</p>
 
-        <div class="release-links">
-          ${links.join("")}
-        </div>
-
+      <div class="release-links">
+        ${links.join("")}
       </div>
 
-    </article>
-  `;
+      ${release.comment ? `
+        <p class="release-comment">
+          ${release.comment}
+        </p>
+      ` : ""}
+
+    </div>
+
+  </article>
+`;
 }

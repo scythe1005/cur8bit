@@ -41,7 +41,8 @@ h1 {
   margin-bottom: 8px;
 }
 
-#release-grid {
+#release-grid,
+#artist-release-grid {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(180px, 250px));
   gap: 30px;
@@ -85,6 +86,8 @@ h1 {
 
 .release-artwork {
   width: 100%;
+  max-width: 600px;
+  height: auto;
   display: block;
 }
 
