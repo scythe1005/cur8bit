@@ -12,7 +12,7 @@
     "links": {
       "youtube": "https://www.youtube.com/watch?v=5W-4REk6Ff4"
     },
-    "comment": "ほとんどyoutubeにしか曲を上げてくれない+オリジナルが少ないのですが毎回素晴らしい曲しか出しません。"
+    "comment": "ほとんどyoutubeにしか曲を上げてくれない+オリジナルが少ないのですが、毎回素晴らしい曲しか出さないのでもっと広くやって欲しさがある。"
   },
   {
     "id": "single and simple vol. 2",
@@ -63,5 +63,107 @@
       "youtube": ""   
     },
     "comment": ""
+  },
+  {
+    "id": "Thinking About the Road",
+    "title": "Thinking About the Road",
+    "artwork": "https://f4.bcbits.com/img/a3302841412_10.jpg",
+    "country": "United States",
+    "artists": [
+      "Wisemoder"
+    ],
+    "year": 2026,
+    "vocal": "no",
+    "links": {
+      "bandcamp": "https://wisemoder.bandcamp.com/album/thinking-about-the-road",
+      "spotify": "",
+      "youtube": ""   
+    },
+    "comment": ""
+  },
+  {
+    "id": "Motorway (Remastered 2021)",
+    "title": "Motorway (Remastered 2021)",
+    "artwork": "https://f4.bcbits.com/img/a0731231598_10.jpg",
+    "country": "United Kingdom",
+    "artists": [
+      "Fearofdark"
+    ],
+    "year": 2021,
+    "vocal": "no",
+    "links": {
+      "bandcamp": "https://fearofdark.bandcamp.com/album/motorway-remastered-2021",
+      "spotify": "https://open.spotify.com/intl-ja/album/6N9DZuWjxAsvlqepvHs6UT?si=ths3b-L5Tl6rqWqjwEg_0Q",
+      "youtube": ""   
+    },
+    "comment": "2012年リリースの1stアルバムのリマスター盤。"
+  },
+  {
+    "id": "Chiptunes and Moonbeams",
+    "title": "Chiptunes and Moonbeams",
+    "artwork": "https://f4.bcbits.com/img/a0710462805_10.jpg",
+    "country": "Canada",
+    "artists": [
+      "Millennium Hero"
+    ],
+    "year": 2019,
+    "vocal": "no",
+    "links": {
+      "bandcamp": "https://millenniumhero.bandcamp.com/album/chiptunes-and-moonbeams",
+      "spotify": "",
+      "youtube": ""   
+    },
+    "comment": ""
+  },
+  {
+    "id": "Melolyn",
+    "title": "Melolyn",
+    "artwork": "https://f4.bcbits.com/img/a1345966319_10.jpg",
+    "country": "Japan",
+    "artists": [
+      "TQ-Jam"
+    ],
+    "year": 2018,
+    "vocal": "no",
+    "links": {
+      "bandcamp": "https://tqjam.bandcamp.com/album/melolyn",
+      "spotify": "",
+      "youtube": ""   
+    },
+    "comment": ""
+  },
+  {
+    "id": "Crema Binaria",
+    "title": "Crema Binaria",
+    "artwork": "https://f4.bcbits.com/img/a3580499714_10.jpg",
+    "country": "Japan",
+    "artists": [
+      "chibi-tech"
+    ],
+    "year": 2020,
+    "vocal": "yes",
+    "links": {
+      "bandcamp": "https://chibitech.bandcamp.com/album/crema-binaria",
+      "spotify": "https://open.spotify.com/intl-ja/album/79cIOKBQ5jiOQJMJX2AF9b?si=F1I0J4SnQjCp2NkR4lrfpg",
+      "youtube": ""   
+    },
+    "comment": "chibi-techのリリースの中では一番好きだと思います。ファミコンに歌わせる技術が高すぎる。歌詞もあるので一応ボーカルあり扱いとさせて頂きます。"
+  },
+  {
+    "id": "Skyline",
+    "title": "Skyline",
+    "artwork": "https://f4.bcbits.com/img/a0261699623_10.jpg",
+    "country": "Netherlands",
+    "artists": [
+      "Nanode"
+    ],
+    "year": 2020,
+    "vocal": "yes",
+    "links": {
+      "bandcamp": "https://nanode.bandcamp.com/album/skyline",
+      "spotify": "",
+      "youtube": ""   
+    },
+    "comment": "(恐らく)DPCMを駆使してボーカルを入れているのですが、その質感が曲の儚さみたいな所ともマッチしていて素晴らしいと思います。"
   }
 ]
