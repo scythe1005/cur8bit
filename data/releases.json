@@ -121,7 +121,7 @@
     "links": {
       "bandcamp": "https://tqjam.bandcamp.com/album/melolyn"
     },
-    "comment": ""
+    "comment": "複雑で多様な高速アルペジオを使いこなしており、多くの楽曲で2A03のみとは思えない重厚さを感じさせる技術力の高さを持ちながら、楽曲としての構成やメロディも素晴らしい。国宝級の名盤だと思います。"
   },
   {
     "id": "60kql9cg",
@@ -135,7 +135,8 @@
     "vocal": "yes",
     "links": {
       "bandcamp": "https://chibitech.bandcamp.com/album/crema-binaria",
-      "spotify": "https://open.spotify.com/intl-ja/album/79cIOKBQ5jiOQJMJX2AF9b?si=F1I0J4SnQjCp2NkR4lrfpg"
+      "spotify": "https://open.spotify.com/intl-ja/album/79cIOKBQ5jiOQJMJX2AF9b?si=F1I0J4SnQjCp2NkR4lrfpg",
+      "soundcloud": "https://soundcloud.com/chibi-tech/sets/crema-binaria"
     },
     "comment": "chibi-techのリリースの中では一番好きだと思います。ファミコンに歌わせる技術が高すぎる。歌詞もあるので一応ボーカルあり扱いとさせて頂きます。"
   },
@@ -150,7 +151,8 @@
     "year": 2020,
     "vocal": "yes",
     "links": {
-      "bandcamp": "https://nanode.bandcamp.com/album/skyline"
+      "bandcamp": "https://nanode.bandcamp.com/album/skyline",
+      "soundcloud": "https://soundcloud.com/nanode/sets/skyline"
     },
     "comment": "(恐らく)DPCMを駆使してボーカルを入れているのですが、その質感が曲の儚さみたいな所ともマッチしていて素晴らしいと思います。"
   },
@@ -181,7 +183,8 @@
     "vocal": "no",
     "links": {
       "bandcamp": "https://ugokuball.bandcamp.com/album/inori-acrylic-flower",
-      "youtube": "https://www.youtube.com/watch?v=nqwxH9SBS3E"
+      "youtube": "https://www.youtube.com/watch?v=nqwxH9SBS3E",
+      "soundcloud": "https://soundcloud.com/ugokuball/sets/inori-acrylic-flower"
     },
     "comment": "哀愁あるメロディが良すぎる。"
   },
@@ -214,7 +217,8 @@
     "year": 2023,
     "vocal": "yes",
     "links": {
-      "bandcamp": "https://meaningsband.bandcamp.com/album/lite-mode"
+      "bandcamp": "https://meaningsband.bandcamp.com/album/lite-mode",
+      "soundcloud": "https://soundcloud.com/meaningsband/sets/lite-mode"
     },
     "comment": ""
   },
@@ -233,5 +237,417 @@
       "spotify": "https://open.spotify.com/intl-ja/album/7C8OhlEK830QceXpUKHCuq?si=DG2GeANvT7We8YlrjrVm_w"
     },
     "comment": ""
+  },
+  {
+    "id": "nSlxuyut",
+    "title": "うたしのりゅー",
+    "artwork": "https://f4.bcbits.com/img/a1632872202_10.jpg",
+    "country": "Japan",
+    "artists": [
+      "しのりゅー"
+    ],
+    "year": 2022,
+    "vocal": "yes",
+    "links": {
+      "bandcamp": "https://novtos.bandcamp.com/album/--3",
+      "spotify": "https://open.spotify.com/intl-ja/album/1XKO89yCOpDEH9kVtxa88L?si=-faw068eQ72oduzfIjKf5Q"
+    },
+    "comment": "もはやアンセムと化した(？)週3でカレーが食べたい歌を始め、様々なスタイルの楽曲が入ったボーカル曲集。個人的にはケモミミランデブーがめちゃ好きです。"
+  },
+  {
+    "id": "D2yjJ4hf",
+    "title": "Meena’s Album",
+    "artwork": "https://f4.bcbits.com/img/a2197324670_10.jpg",
+    "country": "United States",
+    "artists": [
+      "PunkoPunko"
+    ],
+    "year": 2026,
+    "vocal": "no",
+    "links": {
+      "bandcamp": "https://punkopunko.bandcamp.com/album/meenas-album",
+      "youtube": "https://www.youtube.com/watch?v=DRXMLtZcACY"
+    },
+    "comment": ""
+  },
+  {
+    "id": "B5Y37pEV",
+    "title": "Nighttime Arcade",
+    "artwork": "https://f4.bcbits.com/img/a4018794606_10.jpg",
+    "country": "",
+    "artists": [
+      "Ygor G."
+    ],
+    "year": 2026,
+    "vocal": "no",
+    "links": {
+      "bandcamp": "https://ygorg.bandcamp.com/album/nighttime-arcade",
+      "spotify": "https://open.spotify.com/intl-ja/album/54JdcCJ2Uauvlagial72uZ?si=78kb0GuHS9ai_r650k44tg",
+      "soundcloud": "https://soundcloud.com/ygor-g-252408023/sets/nighttime-arcade"
+    },
+    "comment": ""
+  },
+  {
+    "id": "62NDBGan",
+    "title": "Petalo Shower [YM2151 + PCM]",
+    "artwork": "https://f4.bcbits.com/img/a3455551210_10.jpg",
+    "country": "Argentina",
+    "artists": [
+      "Yiter"
+    ],
+    "year": 2025,
+    "vocal": "no",
+    "links": {
+      "bandcamp": "https://yiter.bandcamp.com/track/petalo-shower-ym2151-pcm",
+      "youtube": "https://www.youtube.com/watch?v=emwXLrRpDtk",
+      "soundcloud": "https://soundcloud.com/yiter/petalo-shower-ym2152-pcm"
+    },
+    "comment": ""
+  },
+  {
+    "id": "395WALwN",
+    "title": "Mechanical Love Fighters",
+    "artwork": "https://f4.bcbits.com/img/a3940685758_10.jpg",
+    "country": "Japan",
+    "artists": [
+      "Robotprins"
+    ],
+    "year": 2016,
+    "vocal": "no",
+    "links": {
+      "bandcamp": "https://robotprins.bandcamp.com/album/mechanical-love-fighters-5th-ep",
+      "spotify": "https://open.spotify.com/intl-ja/album/0u1WindDvSvDszjMnqt6i0?si=pjEtzlRGR4-JGlJFg6dJ1A",
+      "soundcloud": "https://soundcloud.com/philip-linden/sets/robotprins-5th-ep-mechanical-love-fighters"
+    },
+    "comment": ""
+  },
+  {
+    "id": "tkB72TDM",
+    "title": "No More Sad Songs",
+    "artwork": "https://f4.bcbits.com/img/a4035749665_10.jpg",
+    "country": "United States",
+    "artists": [
+      "Cityfires"
+    ],
+    "year": 2021,
+    "vocal": "no",
+    "links": {
+      "bandcamp": "https://cityfires.bandcamp.com/album/no-more-sad-songs",
+      "spotify": "https://open.spotify.com/intl-ja/album/76N1igEYqZeEYLpNg1cBUj?si=Sz8rLqwzRVSziGhArCtLPg",
+      "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_mNBGzhSrLXYyb9ANEbt_HH5pfqeAdqDWQ&si=fa9-pLgixESAG7w_"
+    },
+    "comment": ""
+  },
+  {
+    "id": "SWPcRIQX",
+    "title": "Nostalgic 8 Bits Melodies Series",
+    "artwork": "https://i1.sndcdn.com/artworks-000547181355-6oo5r4-t500x500.jpg",
+    "country": "Japan",
+    "artists": [
+      "こつぽん"
+    ],
+    "year": 2019,
+    "vocal": "no",
+    "links": {
+      "soundcloud": "https://soundcloud.com/ko2ponp/sets/nostalgic-8-bits-melodies"
+    },
+    "comment": "FM音源のオリジナル曲まとめ集。7曲目の遠くまでが本当に好き。"
+  },
+  {
+    "id": "mbSov6Hx",
+    "title": "MEGA MAN PERFECT BLUE - Demo OST",
+    "artwork": "https://f4.bcbits.com/img/a0986364906_10.jpg",
+    "country": "United States",
+    "artists": [
+      "RRThiel"
+    ],
+    "year": 2020,
+    "vocal": "no",
+    "links": {
+      "bandcamp": "https://rrthiel.bandcamp.com/album/mega-man-perfect-blue-demo-ost"
+    },
+    "comment": "ロックマンのファンゲーム「MEGA MAN PERFECT BLUE」のOST。いい意味でロックマンっぽいとは言わせない楽曲のカッコよさがある。2曲目の朝日をバイクでかっ飛ばすような爽快感とか堪らないです。"
+  },
+  {
+    "id": "q2wUCLOO",
+    "title": "SUPERALBUM",
+    "artwork": "https://f4.bcbits.com/img/a0732195251_10.jpg",
+    "country": "Japan",
+    "artists": [
+      "SUPERSTARS"
+    ],
+    "year": 2019,
+    "vocal": "yes",
+    "links": {
+      "bandcamp": "https://superstars.bandcamp.com/album/superalbum",
+      "spotify": "https://open.spotify.com/intl-ja/album/5K40Bxo895ni9qhBI578cr?si=GYmXX2BCSc69BKJW1_n1xA",
+      "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_mJi6Jl5R5Y2seom9tHjpx60NB3rk0lOFY"
+    },
+    "comment": "smallest、ブルボン小林、KUNIOの3人によるSUPERSTARSが送る文学×HIPHOP×ゲームボーイの楽曲群。かっこいいとはこういう事。"
+  },
+  {
+    "id": "otMFvpL0",
+    "title": "Precious Metal",
+    "artwork": "https://f4.bcbits.com/img/a0404787776_2.jpg",
+    "country": "Canada",
+    "artists": [
+      "Moment Dreams"
+    ],
+    "year": 2019,
+    "vocal": "no",
+    "links": {
+      "bandcamp": "https://momentdreams.bandcamp.com/album/precious-metal"
+    },
+    "comment": ""
+  },
+  {
+    "id": "4iHcFtIF",
+    "title": "パステルで描いたのは幼い夢の国",
+    "artwork": "https://i1.sndcdn.com/avatars-9nLSBpyQczJR0n06-1lDzcA-t500x500.jpg",
+    "country": "Japan",
+    "artists": [
+      "ShaChi Jr."
+    ],
+    "year": 2019,
+    "vocal": "no",
+    "links": {
+      "soundcloud": "https://soundcloud.com/shachijr/zjvswskda7cr"
+    },
+    "comment": ""
+  },
+  {
+    "id": "D8sezW41",
+    "title": "MELANCHOLIC GLITTER",
+    "artwork": "https://f4.bcbits.com/img/a1912142651_10.jpg",
+    "country": "Japan",
+    "artists": [
+      "suguruka"
+    ],
+    "year": 2017,
+    "vocal": "no",
+    "links": {
+      "bandcamp": "https://suguruka.bandcamp.com/album/melancholic-glitter"
+    },
+    "comment": ""
+  },
+  {
+    "id": "mGmjZ0km",
+    "title": "Breakthrough",
+    "artwork": "https://f4.bcbits.com/img/a3505962089_10.jpg",
+    "country": "Japan",
+    "artists": [
+      "maak"
+    ],
+    "year": 2024,
+    "vocal": "no",
+    "links": {
+      "bandcamp": "https://maakmusic.bandcamp.com/album/breakthrough",
+      "youtube": "https://www.youtube.com/watch?v=1KkSrYP-k7U&list=PLyFOntLDxpjujQ5xyrqn3uH6fWDmMDYwM",
+      "soundcloud": "https://soundcloud.com/maakmusic/sets/breakthrough"
+    },
+    "comment": ""
+  },
+  {
+    "id": "zUPA3tBb",
+    "title": "Better, Lost",
+    "artwork": "https://f4.bcbits.com/img/a1144770065_10.jpg",
+    "country": "Ireland",
+    "artists": [
+      "Breakbeat Heartbeat"
+    ],
+    "year": 2020,
+    "vocal": "no",
+    "links": {
+      "bandcamp": "https://breakbeatheartbeat.bandcamp.com/album/better-lost",
+      "spotify": "https://open.spotify.com/intl-ja/album/2zSLauALjjXkR1mN6Vsv3T?si=hxsCtXLlSPicZRGIbsmhig",
+      "youtube": "https://www.youtube.com/watch?v=Z_Ap3vpmPd4&list=PL45NuDm2ZBjMV5NtgJY0qDqisj8kijSDF"
+    },
+    "comment": ""
+  },
+  {
+    "id": "SNp2i3hq",
+    "title": "Happybeats",
+    "artwork": "https://f4.bcbits.com/img/a3282624446_10.jpg",
+    "country": "Japan",
+    "artists": [
+      "sylcmyk"
+    ],
+    "year": 2021,
+    "vocal": "no",
+    "links": {
+      "bandcamp": "https://sylcmyk.bandcamp.com/album/happybeats",
+      "spotify": "https://open.spotify.com/intl-ja/album/3re7q8lelOVUPGpAwvc6qE?si=WpPg-KJQS6S5wUjIHIAD4A",
+      "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_m72LK6jdlTMFMA2e8ZM2CPymDCTaRjB-Q",
+      "soundcloud": "https://soundcloud.com/sylcmyk/sets/happybeats"
+    },
+    "comment": ""
+  },
+  {
+    "id": "E7eWYYp5",
+    "title": "Entries for \"Hot Coffee\"",
+    "artwork": "https://f4.bcbits.com/img/a0026390171_10.jpg",
+    "country": "",
+    "artists": [
+      "nayumidayo"
+    ],
+    "year": 2021,
+    "vocal": "no",
+    "links": {
+      "bandcamp": "https://nayumidayo.bandcamp.com/album/entries-for-hot-coffee",
+      "soundcloud": "https://soundcloud.com/nayumidayo/sets/entries-for-hot-coffee"
+    },
+    "comment": "当時navidon1147だったんですが今見たらnayumidayoに名義が変わっていたのでそちらで登録。90s POP感ある爽やかなイントロから始まる”Ujico”、Bメロのメロディと絡み合うアルペジオが美しい”Willow”、ボイスサンプルを巧みに使った”Roxanne”とどれを取っても良い曲です。"
+  },
+  {
+    "id": "621KnbBY",
+    "title": "Nectarine",
+    "artwork": "https://f4.bcbits.com/img/a0030762495_10.jpg",
+    "country": "United States",
+    "artists": [
+      "Lindsay Lowend"
+    ],
+    "year": 2022,
+    "vocal": "no",
+    "links": {
+      "bandcamp": "https://lindsaylowend.bandcamp.com/album/nectarine",
+      "spotify": "https://open.spotify.com/intl-ja/album/0P1K0nQnEUcf6Smdbbbzmz?si=mu0w0IH9TMiyGq3Fde2uyg"
+    },
+    "comment": "Lindsay Lowendの楽曲はどれをとっても雨上がりのような優しさを感じます。Fearofdarktとの合作\t\r\nSkylight Promenadeも素晴らしい。"
+  },
+  {
+    "id": "0uFUO05j",
+    "title": "Greetings from Paradise Island",
+    "artwork": "https://f4.bcbits.com/img/a2720666769_10.jpg",
+    "country": "Brazil",
+    "artists": [
+      "Gors"
+    ],
+    "year": 2021,
+    "vocal": "no",
+    "links": {
+      "bandcamp": "https://gors.bandcamp.com/album/greetings-from-paradise-island"
+    },
+    "comment": ""
+  },
+  {
+    "id": "HRegcpJk",
+    "title": "Driving my Love",
+    "artwork": "https://f4.bcbits.com/img/a0635834133_10.jpg",
+    "country": "Brazil",
+    "artists": [
+      "Gors"
+    ],
+    "year": 2022,
+    "vocal": "no",
+    "links": {
+      "bandcamp": "https://gors.bandcamp.com/album/driving-my-love"
+    },
+    "comment": "チップチューンカバーアルバムを作るくらい日本の80s、90sポップスが好きだと思われるGorsの楽曲はその因子を強く感じてとても好きです。俺も日本の90sが好きなので。"
+  },
+  {
+    "id": "QDuHnE6v",
+    "title": "Dry Cell",
+    "artwork": "https://f4.bcbits.com/img/a0995592043_10.jpg",
+    "country": "Japan",
+    "artists": [
+      "wool pool"
+    ],
+    "year": 2025,
+    "vocal": "no",
+    "links": {
+      "bandcamp": "https://woolpool.bandcamp.com/album/dry-cell-2"
+    },
+    "comment": "アルバムを出すほどにLSDjの扱いの上手さに磨きがかかっていく。Sundirdがめっちゃ好きです。"
+  },
+  {
+    "id": "hYzmR5vb",
+    "title": "Mix Juice",
+    "artwork": "https://f4.bcbits.com/img/a3096774407_10.jpg",
+    "country": "Japan",
+    "artists": [
+      "HaL_Bits"
+    ],
+    "year": 2021,
+    "vocal": "no",
+    "links": {
+      "bandcamp": "https://halbits.bandcamp.com/album/mix-juice"
+    },
+    "comment": "Inkblue Manのメロを聴いた時の衝撃。なんですが俺にとってはるはびさんの1番の名曲はやっぱEndrollかもしれない。"
+  },
+  {
+    "id": "jDvNKPI6",
+    "title": "『短編集』",
+    "artwork": "https://f4.bcbits.com/img/a2660684992_10.jpg",
+    "country": "Japan",
+    "artists": [
+      "OldTypeUseIncom"
+    ],
+    "year": 2021,
+    "vocal": "no",
+    "links": {
+      "bandcamp": "https://oldtypeuseincom.bandcamp.com/album/--3"
+    },
+    "comment": "数年を経て帰ってきた時は本当に嬉しかった。激情、音の洪水という印象がありながらも動に対して静があり、メロディはどれも美しいんですよね。"
+  },
+  {
+    "id": "JTOW77Z4",
+    "title": "にじむ",
+    "artwork": "https://f4.bcbits.com/img/a3664409295_10.jpg",
+    "country": "Japan",
+    "artists": [
+      "taketake"
+    ],
+    "year": 2026,
+    "vocal": "yes",
+    "links": {
+      "bandcamp": "https://socialnoisekun.bandcamp.com/track/-"
+    },
+    "comment": ""
+  },
+  {
+    "id": "BPVPd8kQ",
+    "title": "PIXEL SUMMER RESTART",
+    "artwork": "https://f4.bcbits.com/img/a1386416745_10.jpg",
+    "country": "Japan",
+    "artists": [
+      "レインジ"
+    ],
+    "year": 2026,
+    "vocal": "no",
+    "links": {
+      "bandcamp": "https://lainji.bandcamp.com/album/pixel-summer-restart"
+    },
+    "comment": ""
+  },
+  {
+    "id": "cxOoXbIX",
+    "title": "My Originals, vol. 1",
+    "artwork": "https://f4.bcbits.com/img/a0837979150_10.jpg",
+    "country": "United States",
+    "artists": [
+      "idogedochiptune"
+    ],
+    "year": 2023,
+    "vocal": "no",
+    "links": {
+      "bandcamp": "https://idogedochiptune.bandcamp.com/album/my-originals-vol-1"
+    },
+    "comment": ""
+  },
+  {
+    "id": "CdCUmlgE",
+    "title": "Attempts for Soundchips Volume 2",
+    "artwork": "https://f4.bcbits.com/img/a3539746322_10.jpg",
+    "country": "Japan",
+    "artists": [
+      "Rei8bit"
+    ],
+    "year": 2026,
+    "vocal": "no",
+    "links": {
+      "bandcamp": "https://rei8bit.bandcamp.com/album/attempts-for-soundchips-volume-2",
+      "soundcloud": "https://soundcloud.com/rei_8bit/sets/attempts-for-soundchips-volume"
+    },
+    "comment": "作品を出す度にその成長は止まる事を知らず、もはや誰も到達できない領域に達しつつある気がします。音源への理解度と音楽性の高さに打ちのめされる。"
   }
 ]

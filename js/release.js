@@ -63,6 +63,14 @@ function displayRelease(release) {
       </a>
     `);
   }
+  
+  if (release.links?.soundcloud) {
+  links.push(`
+    <a href="${release.links.soundcloud}" target="_blank" rel="noopener noreferrer">
+      SoundCloud
+    </a>
+  `);
+}
 
 container.innerHTML = `
   <article class="release-detail">
