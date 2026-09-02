@@ -271,7 +271,7 @@
   {
     "id": "nSlxuyut",
     "title": "うたしのりゅー",
-    "artwork": "https://f4.bcbits.com/img/a1632872202_10.jpg",
+    "artwork": "https://f4.bcbits.com/img/a1632872202_16.jpg",
     "country": "Japan",
     "artists": [
       "しのりゅー"
@@ -345,7 +345,7 @@
   {
     "id": "395WALwN",
     "title": "Mechanical Love Fighters",
-    "artwork": "https://f4.bcbits.com/img/a3940685758_10.jpg",
+    "artwork": "https://f4.bcbits.com/img/a3940685758_16.jpg",
     "country": "Japan",
     "artists": [
       "Robotprins"
@@ -470,7 +470,7 @@
   {
     "id": "D8sezW41",
     "title": "MELANCHOLIC GLITTER",
-    "artwork": "https://f4.bcbits.com/img/a1912142651_10.jpg",
+    "artwork": "https://f4.bcbits.com/img/a1912142651_16.jpg",
     "country": "Japan",
     "artists": [
       "suguruka"
@@ -980,6 +980,146 @@
       "bandcamp": "https://buttonmasher1.bandcamp.com/album/tracker-vision-2",
       "spotify": "https://open.spotify.com/album/2kuAq1TKI9j2j4muLAAyH7?si=JEmpZOn4T6ChEDlhzeAF6Q",
       "soundcloud": "https://soundcloud.com/button-masher-486000334/sets/tracker-vision-2"
+    },
+    "comment": ""
+  },
+  {
+    "id": "jvrBCy67",
+    "title": "WRKS: Vol.1",
+    "artwork": "https://f4.bcbits.com/img/a2375575264_16.jpg",
+    "country": "United States",
+    "artists": [
+      "A M 4 N 音楽"
+    ],
+    "release_date": "2026-08-07",
+    "year": 2026,
+    "added": "2026-09-02",
+    "vocal": "no",
+    "links": {
+      "bandcamp": "https://am4nfm.bandcamp.com/album/wrks-vol-1"
+    },
+    "comment": ""
+  },
+  {
+    "id": "5tP2S5cY",
+    "title": "IMMATURE",
+    "artwork": "https://f4.bcbits.com/img/a1193315302_16.jpg",
+    "country": "Japan",
+    "artists": [
+      "furmoph"
+    ],
+    "release_date": "2025-08-03",
+    "year": 2025,
+    "added": "2026-09-02",
+    "vocal": "yes",
+    "links": {
+      "bandcamp": "https://furmoph.bandcamp.com/album/immature",
+      "spotify": "https://open.spotify.com/intl-ja/album/7px8SEZdxPlRbigXjfcKFU?si=gzmXlJ6MQQ2dabulWnk49Q"
+    },
+    "comment": ""
+  },
+  {
+    "id": "TrYlfp2m",
+    "title": "window of vulnerability",
+    "artwork": "https://f4.bcbits.com/img/a0457238909_16.jpg",
+    "country": "United States",
+    "artists": [
+      "mrg32k3a"
+    ],
+    "release_date": "2026-07-31",
+    "year": 2026,
+    "added": "2026-09-02",
+    "vocal": "yes",
+    "links": {
+      "bandcamp": "https://mrg32k3a.bandcamp.com/album/window-of-vulnerability"
+    },
+    "comment": ""
+  },
+  {
+    "id": "QA6aXsg8",
+    "title": "Looney Landers Soundtrack",
+    "artwork": "https://f4.bcbits.com/img/a1443386446_16.jpg",
+    "country": "Japan",
+    "artists": [
+      "naruto2413"
+    ],
+    "release_date": "2025-03-07",
+    "year": 2025,
+    "added": "2026-09-02",
+    "vocal": "no",
+    "links": {
+      "bandcamp": "https://naruto2413.bandcamp.com/album/looney-landers-soundtrack"
+    },
+    "comment": ""
+  },
+  {
+    "id": "qnHIWTdb",
+    "title": "Tashkil vol.1",
+    "artwork": "https://f4.bcbits.com/img/a0846484593_16.jpg",
+    "country": "Japan",
+    "artists": [
+      "40Nix"
+    ],
+    "release_date": "2025-04-27",
+    "year": 2025,
+    "added": "2026-09-02",
+    "vocal": "no",
+    "links": {
+      "bandcamp": "https://40nix.bandcamp.com/album/tashkil-vol-1"
+    },
+    "comment": ""
+  },
+  {
+    "id": "Ox4H8eAk",
+    "title": "Tashkil vol.2",
+    "artwork": "https://f4.bcbits.com/img/a4073282098_16.jpg",
+    "country": "Japan",
+    "artists": [
+      "40Nix"
+    ],
+    "release_date": "2026-04-26",
+    "year": 2026,
+    "added": "2026-09-02",
+    "vocal": "no",
+    "links": {
+      "bandcamp": "https://40nix.bandcamp.com/album/tashkil-vol-2"
+    },
+    "comment": ""
+  },
+  {
+    "id": "xwWyiI2U",
+    "title": "Room To Room",
+    "artwork": "https://f4.bcbits.com/img/a1952415245_16.jpg",
+    "country": "Japan",
+    "artists": [
+      "とぼけがお"
+    ],
+    "release_date": "2020-12-04",
+    "year": 2020,
+    "added": "2026-09-02",
+    "vocal": "no",
+    "links": {
+      "bandcamp": "https://tbkgao.bandcamp.com/album/room-to-room",
+      "spotify": "https://open.spotify.com/intl-ja/album/1XYmkG4GLXXqAVlIN6SF8i?si=FiH1EUg8RY2pKAkoWh2LkQ"
+    },
+    "comment": ""
+  },
+  {
+    "id": "gXi3pHCL",
+    "title": "tour (semi-fiction)",
+    "artwork": "https://f4.bcbits.com/img/a2480607248_16.jpg",
+    "country": "Japan",
+    "artists": [
+      "もちうめ"
+    ],
+    "release_date": "2023-08-04",
+    "year": 2023,
+    "added": "2026-09-02",
+    "vocal": "no",
+    "links": {
+      "bandcamp": "https://mochiume.bandcamp.com/album/tour-semi-fiction",
+      "spotify": "https://open.spotify.com/intl-ja/album/5ozss7h3saTHLLSlkd4xcn?si=mVGoZHAuTxWwwfzq85bavg",
+      "youtube": "https://www.youtube.com/playlist?list=OLAK5uy_mQbABpZnHFGUo0q9ZpEq8VVI18ddLmWt0"
     },
     "comment": ""
   }
