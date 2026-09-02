@@ -7,7 +7,9 @@
     "artists": [
       "MegaBaz"
     ],
+    "release_date": "2024-02-10",
     "year": 2024,
+    "added": "2026-08-31",
     "vocal": "no",
     "links": {
       "youtube": "https://www.youtube.com/watch?v=5W-4REk6Ff4"
@@ -17,12 +19,14 @@
   {
     "id": "fYbRLLFp",
     "title": "single and simple vol. 2",
-    "artwork": "https://f4.bcbits.com/img/a2845967458_10.jpg",
+    "artwork": "https://f4.bcbits.com/img/a2845967458_16.jpg",
     "country": "Malaysia",
     "artists": [
       "John \"Joy\" Tay"
     ],
+    "release_date": "2026-08-04",
     "year": 2026,
+    "added": "2026-08-31",
     "vocal": "no",
     "links": {
       "bandcamp": "https://johntayjinf.bandcamp.com/album/single-and-simple-vol-2"
@@ -38,7 +42,9 @@
       "るなっち☆ほし",
       "Mr.Asyu"
     ],
+    "release_date": "2024-08-15",
     "year": 2024,
+    "added": "2026-08-31",
     "vocal": "yes",
     "links": {
       "bandcamp": "https://runaporitan.bandcamp.com/album/one-planet",
@@ -50,12 +56,14 @@
   {
     "id": "wwqARd8d",
     "title": "Il fait beau",
-    "artwork": "https://f4.bcbits.com/img/a2408212576_10.jpg",
+    "artwork": "https://f4.bcbits.com/img/a2408212576_16.jpg",
     "country": "Japan",
     "artists": [
       "M.S"
     ],
+    "release_date": "2026-04-26",
     "year": 2026,
+    "added": "2026-08-31",
     "vocal": "no",
     "links": {
       "bandcamp": "https://megafepps1992.bandcamp.com/album/mfcd-024-il-fait-beau"
@@ -65,12 +73,14 @@
   {
     "id": "BXCPHynG",
     "title": "Thinking About the Road",
-    "artwork": "https://f4.bcbits.com/img/a3302841412_10.jpg",
+    "artwork": "https://f4.bcbits.com/img/a3302841412_16.jpg",
     "country": "United States",
     "artists": [
       "Wisemoder"
     ],
+    "release_date": "2026-08-17",
     "year": 2026,
+    "added": "2026-09-01",
     "vocal": "no",
     "links": {
       "bandcamp": "https://wisemoder.bandcamp.com/album/thinking-about-the-road"
@@ -80,12 +90,14 @@
   {
     "id": "wcG8G25c",
     "title": "Motorway (Remastered 2021)",
-    "artwork": "https://f4.bcbits.com/img/a0731231598_10.jpg",
+    "artwork": "https://f4.bcbits.com/img/a0731231598_16.jpg",
     "country": "United Kingdom",
     "artists": [
       "Fearofdark"
     ],
+    "release_date": "2021-10-06",
     "year": 2021,
+    "added": "2026-09-01",
     "vocal": "no",
     "links": {
       "bandcamp": "https://fearofdark.bandcamp.com/album/motorway-remastered-2021",
@@ -96,12 +108,14 @@
   {
     "id": "XPtwlSMg",
     "title": "Chiptunes and Moonbeams",
-    "artwork": "https://f4.bcbits.com/img/a0710462805_10.jpg",
+    "artwork": "https://f4.bcbits.com/img/a0710462805_16.jpg",
     "country": "Canada",
     "artists": [
       "Millennium Hero"
     ],
+    "release_date": "2019-11-15",
     "year": 2019,
+    "added": "2026-09-01",
     "vocal": "no",
     "links": {
       "bandcamp": "https://millenniumhero.bandcamp.com/album/chiptunes-and-moonbeams"
@@ -111,12 +125,14 @@
   {
     "id": "eEAYG19v",
     "title": "Melolyn",
-    "artwork": "https://f4.bcbits.com/img/a1345966319_10.jpg",
+    "artwork": "https://f4.bcbits.com/img/a1345966319_16.jpg",
     "country": "Japan",
     "artists": [
       "TQ-Jam"
     ],
+    "release_date": "2018-02-17",
     "year": 2018,
+    "added": "2026-09-01",
     "vocal": "no",
     "links": {
       "bandcamp": "https://tqjam.bandcamp.com/album/melolyn"
@@ -126,13 +142,15 @@
   {
     "id": "60kql9cg",
     "title": "Crema Binaria",
-    "artwork": "https://f4.bcbits.com/img/a3580499714_10.jpg",
+    "artwork": "https://f4.bcbits.com/img/a3580499714_16.jpg",
     "country": "Japan",
     "artists": [
       "chibi-tech"
     ],
+    "release_date": "2020-02-14",
     "year": 2020,
-    "vocal": "yes",
+    "added": "2026-09-01",
+    "vocal": "no",
     "links": {
       "bandcamp": "https://chibitech.bandcamp.com/album/crema-binaria",
       "spotify": "https://open.spotify.com/intl-ja/album/79cIOKBQ5jiOQJMJX2AF9b?si=F1I0J4SnQjCp2NkR4lrfpg",
@@ -143,12 +161,14 @@
   {
     "id": "A7CHad5U",
     "title": "Skyline",
-    "artwork": "https://f4.bcbits.com/img/a0261699623_10.jpg",
+    "artwork": "https://f4.bcbits.com/img/a0261699623_16.jpg",
     "country": "United States",
     "artists": [
       "Nanode"
     ],
+    "release_date": "2020-05-25",
     "year": 2020,
+    "added": "2026-09-01",
     "vocal": "yes",
     "links": {
       "bandcamp": "https://nanode.bandcamp.com/album/skyline",
@@ -159,12 +179,14 @@
   {
     "id": "gbA31SBp",
     "title": "FamiTracker Works",
-    "artwork": "https://f4.bcbits.com/img/a0007500155_10.jpg",
+    "artwork": "https://f4.bcbits.com/img/a0007500155_16.jpg",
     "country": "Russia",
     "artists": [
       "nu11"
     ],
+    "release_date": "2025-04-14",
     "year": 2025,
+    "added": "2026-09-01",
     "vocal": "no",
     "links": {
       "bandcamp": "https://nu11.bandcamp.com/album/famitracker-works"
@@ -174,12 +196,14 @@
   {
     "id": "tjHBXV4Q",
     "title": "Inori / Acrylic Flower",
-    "artwork": "https://f4.bcbits.com/img/a1202304993_10.jpg",
+    "artwork": "https://f4.bcbits.com/img/a1202304993_16.jpg",
     "country": "Japan",
     "artists": [
       "UgokuBall"
     ],
+    "release_date": "2023-12-15",
     "year": 2023,
+    "added": "2026-09-01",
     "vocal": "no",
     "links": {
       "bandcamp": "https://ugokuball.bandcamp.com/album/inori-acrylic-flower",
@@ -191,13 +215,15 @@
   {
     "id": "wYFYgtz5",
     "title": "つきのシティ",
-    "artwork": "https://f4.bcbits.com/img/a1500716754_10.jpg",
+    "artwork": "https://f4.bcbits.com/img/a1500716754_16.jpg",
     "country": "Japan",
     "artists": [
       "komiya hairu",
       "Rhesa Siregar"
     ],
+    "release_date": "2023-09-23",
     "year": 2023,
+    "added": "2026-09-01",
     "vocal": "yes",
     "links": {
       "bandcamp": "https://rhesasiregar.bandcamp.com/album/tsuki-no-city",
@@ -209,12 +235,14 @@
   {
     "id": "ZRYEQbIv",
     "title": "lite mode",
-    "artwork": "https://f4.bcbits.com/img/a0841947444_10.jpg",
+    "artwork": "https://f4.bcbits.com/img/a0841947444_16.jpg",
     "country": "United States",
     "artists": [
       "meanings"
     ],
+    "release_date": "2023-08-11",
     "year": 2023,
+    "added": "2026-09-01",
     "vocal": "yes",
     "links": {
       "bandcamp": "https://meaningsband.bandcamp.com/album/lite-mode",
@@ -225,12 +253,14 @@
   {
     "id": "EEcyuSGl",
     "title": "Tuberz McGee and the Contractual Obligation to Write a Second Album",
-    "artwork": "https://f4.bcbits.com/img/a2233948772_10.jpg",
+    "artwork": "https://f4.bcbits.com/img/a2233948772_16.jpg",
     "country": "Australia",
     "artists": [
       "Tuberz McGee"
     ],
+    "release_date": "2020-11-11",
     "year": 2020,
+    "added": "2026-09-01",
     "vocal": "yes",
     "links": {
       "bandcamp": "https://tuberzmcgee.bandcamp.com/album/tuberz-mcgee-and-the-contractual-obligation-to-write-a-second-album",
@@ -246,7 +276,9 @@
     "artists": [
       "しのりゅー"
     ],
+    "release_date": "2022-04-24",
     "year": 2022,
+    "added": "2026-09-01",
     "vocal": "yes",
     "links": {
       "bandcamp": "https://novtos.bandcamp.com/album/--3",
@@ -257,12 +289,14 @@
   {
     "id": "D2yjJ4hf",
     "title": "Meena’s Album",
-    "artwork": "https://f4.bcbits.com/img/a2197324670_10.jpg",
+    "artwork": "https://f4.bcbits.com/img/a2197324670_16.jpg",
     "country": "United States",
     "artists": [
       "PunkoPunko"
     ],
+    "release_date": "2026-06-10",
     "year": 2026,
+    "added": "2026-09-01",
     "vocal": "no",
     "links": {
       "bandcamp": "https://punkopunko.bandcamp.com/album/meenas-album",
@@ -273,12 +307,14 @@
   {
     "id": "B5Y37pEV",
     "title": "Nighttime Arcade",
-    "artwork": "https://f4.bcbits.com/img/a4018794606_10.jpg",
+    "artwork": "https://f4.bcbits.com/img/a4018794606_16.jpg",
     "country": "",
     "artists": [
       "Ygor G."
     ],
+    "release_date": "2026-01-06",
     "year": 2026,
+    "added": "2026-09-01",
     "vocal": "no",
     "links": {
       "bandcamp": "https://ygorg.bandcamp.com/album/nighttime-arcade",
@@ -290,12 +326,14 @@
   {
     "id": "62NDBGan",
     "title": "Petalo Shower [YM2151 + PCM]",
-    "artwork": "https://f4.bcbits.com/img/a3455551210_10.jpg",
+    "artwork": "https://f4.bcbits.com/img/a3455551210_16.jpg",
     "country": "Argentina",
     "artists": [
       "Yiter"
     ],
+    "release_date": "2025-03-15",
     "year": 2025,
+    "added": "2026-09-01",
     "vocal": "no",
     "links": {
       "bandcamp": "https://yiter.bandcamp.com/track/petalo-shower-ym2151-pcm",
@@ -312,7 +350,9 @@
     "artists": [
       "Robotprins"
     ],
+    "release_date": "2016-04-24",
     "year": 2016,
+    "added": "2026-09-01",
     "vocal": "no",
     "links": {
       "bandcamp": "https://robotprins.bandcamp.com/album/mechanical-love-fighters-5th-ep",
@@ -324,12 +364,14 @@
   {
     "id": "tkB72TDM",
     "title": "No More Sad Songs",
-    "artwork": "https://f4.bcbits.com/img/a4035749665_10.jpg",
+    "artwork": "https://f4.bcbits.com/img/a4035749665_16.jpg",
     "country": "United States",
     "artists": [
       "Cityfires"
     ],
+    "release_date": "2021-01-01",
     "year": 2021,
+    "added": "2026-09-01",
     "vocal": "no",
     "links": {
       "bandcamp": "https://cityfires.bandcamp.com/album/no-more-sad-songs",
@@ -346,7 +388,9 @@
     "artists": [
       "こつぽん"
     ],
+    "release_date": "2019-09-19",
     "year": 2019,
+    "added": "2026-09-01",
     "vocal": "no",
     "links": {
       "soundcloud": "https://soundcloud.com/ko2ponp/sets/nostalgic-8-bits-melodies"
@@ -356,12 +400,14 @@
   {
     "id": "mbSov6Hx",
     "title": "MEGA MAN PERFECT BLUE - Demo OST",
-    "artwork": "https://f4.bcbits.com/img/a0986364906_10.jpg",
+    "artwork": "https://f4.bcbits.com/img/a0986364906_16.jpg",
     "country": "United States",
     "artists": [
       "RRThiel"
     ],
+    "release_date": "2020-03-22",
     "year": 2020,
+    "added": "2026-09-01",
     "vocal": "no",
     "links": {
       "bandcamp": "https://rrthiel.bandcamp.com/album/mega-man-perfect-blue-demo-ost"
@@ -371,12 +417,14 @@
   {
     "id": "q2wUCLOO",
     "title": "SUPERALBUM",
-    "artwork": "https://f4.bcbits.com/img/a0732195251_10.jpg",
+    "artwork": "https://f4.bcbits.com/img/a0732195251_16.jpg",
     "country": "Japan",
     "artists": [
       "SUPERSTARS"
     ],
+    "release_date": "2019-01-26",
     "year": 2019,
+    "added": "2026-09-01",
     "vocal": "yes",
     "links": {
       "bandcamp": "https://superstars.bandcamp.com/album/superalbum",
@@ -388,12 +436,14 @@
   {
     "id": "otMFvpL0",
     "title": "Precious Metal",
-    "artwork": "https://f4.bcbits.com/img/a0404787776_2.jpg",
+    "artwork": "https://f4.bcbits.com/img/a0404787776_16.jpg",
     "country": "Canada",
     "artists": [
       "Moment Dreams"
     ],
+    "release_date": "2019-10-29",
     "year": 2019,
+    "added": "2026-09-01",
     "vocal": "no",
     "links": {
       "bandcamp": "https://momentdreams.bandcamp.com/album/precious-metal"
@@ -408,7 +458,9 @@
     "artists": [
       "ShaChi Jr."
     ],
+    "release_date": "2019-05-06",
     "year": 2019,
+    "added": "2026-09-01",
     "vocal": "no",
     "links": {
       "soundcloud": "https://soundcloud.com/shachijr/zjvswskda7cr"
@@ -423,7 +475,9 @@
     "artists": [
       "suguruka"
     ],
+    "release_date": "2017-05-05",
     "year": 2017,
+    "added": "2026-09-01",
     "vocal": "no",
     "links": {
       "bandcamp": "https://suguruka.bandcamp.com/album/melancholic-glitter"
@@ -433,12 +487,14 @@
   {
     "id": "mGmjZ0km",
     "title": "Breakthrough",
-    "artwork": "https://f4.bcbits.com/img/a3505962089_10.jpg",
+    "artwork": "https://f4.bcbits.com/img/a3505962089_16.jpg",
     "country": "Japan",
     "artists": [
       "maak"
     ],
+    "release_date": "2024-07-19",
     "year": 2024,
+    "added": "2026-09-01",
     "vocal": "no",
     "links": {
       "bandcamp": "https://maakmusic.bandcamp.com/album/breakthrough",
@@ -450,12 +506,14 @@
   {
     "id": "zUPA3tBb",
     "title": "Better, Lost",
-    "artwork": "https://f4.bcbits.com/img/a1144770065_10.jpg",
+    "artwork": "https://f4.bcbits.com/img/a1144770065_16.jpg",
     "country": "Ireland",
     "artists": [
       "Breakbeat Heartbeat"
     ],
+    "release_date": "2020-05-02",
     "year": 2020,
+    "added": "2026-09-01",
     "vocal": "no",
     "links": {
       "bandcamp": "https://breakbeatheartbeat.bandcamp.com/album/better-lost",
@@ -467,12 +525,14 @@
   {
     "id": "SNp2i3hq",
     "title": "Happybeats",
-    "artwork": "https://f4.bcbits.com/img/a3282624446_10.jpg",
+    "artwork": "https://f4.bcbits.com/img/a3282624446_16.jpg",
     "country": "Japan",
     "artists": [
       "sylcmyk"
     ],
+    "release_date": "2021-02-11",
     "year": 2021,
+    "added": "2026-09-01",
     "vocal": "no",
     "links": {
       "bandcamp": "https://sylcmyk.bandcamp.com/album/happybeats",
@@ -485,12 +545,14 @@
   {
     "id": "E7eWYYp5",
     "title": "Entries for \"Hot Coffee\"",
-    "artwork": "https://f4.bcbits.com/img/a0026390171_10.jpg",
+    "artwork": "https://f4.bcbits.com/img/a0026390171_16.jpg",
     "country": "",
     "artists": [
       "nayumidayo"
     ],
+    "release_date": "2021-04-09",
     "year": 2021,
+    "added": "2026-09-01",
     "vocal": "no",
     "links": {
       "bandcamp": "https://nayumidayo.bandcamp.com/album/entries-for-hot-coffee",
@@ -501,28 +563,32 @@
   {
     "id": "621KnbBY",
     "title": "Nectarine",
-    "artwork": "https://f4.bcbits.com/img/a0030762495_10.jpg",
+    "artwork": "https://f4.bcbits.com/img/a0030762495_16.jpg",
     "country": "United States",
     "artists": [
       "Lindsay Lowend"
     ],
+    "release_date": "2022-01-14",
     "year": 2022,
+    "added": "2026-09-01",
     "vocal": "no",
     "links": {
       "bandcamp": "https://lindsaylowend.bandcamp.com/album/nectarine",
       "spotify": "https://open.spotify.com/intl-ja/album/0P1K0nQnEUcf6Smdbbbzmz?si=mu0w0IH9TMiyGq3Fde2uyg"
     },
-    "comment": "Lindsay Lowendの楽曲はどれをとっても雨上がりのような優しさを感じます。Fearofdarktとの合作\t\r\nSkylight Promenadeも素晴らしい。"
+    "comment": "Lindsay Lowendの楽曲はどれをとっても雨上がりのような優しさを感じます。Fearofdarktとの合作Skylight Promenadeも素晴らしい。"
   },
   {
     "id": "0uFUO05j",
     "title": "Greetings from Paradise Island",
-    "artwork": "https://f4.bcbits.com/img/a2720666769_10.jpg",
+    "artwork": "https://f4.bcbits.com/img/a2720666769_16.jpg",
     "country": "Brazil",
     "artists": [
       "Gors"
     ],
+    "release_date": "2021-07-05",
     "year": 2021,
+    "added": "2026-09-01",
     "vocal": "no",
     "links": {
       "bandcamp": "https://gors.bandcamp.com/album/greetings-from-paradise-island"
@@ -532,12 +598,14 @@
   {
     "id": "HRegcpJk",
     "title": "Driving my Love",
-    "artwork": "https://f4.bcbits.com/img/a0635834133_10.jpg",
+    "artwork": "https://f4.bcbits.com/img/a0635834133_16.jpg",
     "country": "Brazil",
     "artists": [
       "Gors"
     ],
+    "release_date": "2022-05-01",
     "year": 2022,
+    "added": "2026-09-01",
     "vocal": "no",
     "links": {
       "bandcamp": "https://gors.bandcamp.com/album/driving-my-love"
@@ -547,12 +615,14 @@
   {
     "id": "QDuHnE6v",
     "title": "Dry Cell",
-    "artwork": "https://f4.bcbits.com/img/a0995592043_10.jpg",
+    "artwork": "https://f4.bcbits.com/img/a0995592043_16.jpg",
     "country": "Japan",
     "artists": [
       "wool pool"
     ],
+    "release_date": "2025-11-30",
     "year": 2025,
+    "added": "2026-09-01",
     "vocal": "no",
     "links": {
       "bandcamp": "https://woolpool.bandcamp.com/album/dry-cell-2"
@@ -562,12 +632,14 @@
   {
     "id": "hYzmR5vb",
     "title": "Mix Juice",
-    "artwork": "https://f4.bcbits.com/img/a3096774407_10.jpg",
+    "artwork": "https://f4.bcbits.com/img/a3096774407_16.jpg",
     "country": "Japan",
     "artists": [
       "HaL_Bits"
     ],
+    "release_date": "2021-12-03",
     "year": 2021,
+    "added": "2026-09-01",
     "vocal": "no",
     "links": {
       "bandcamp": "https://halbits.bandcamp.com/album/mix-juice"
@@ -577,12 +649,14 @@
   {
     "id": "jDvNKPI6",
     "title": "『短編集』",
-    "artwork": "https://f4.bcbits.com/img/a2660684992_10.jpg",
+    "artwork": "https://f4.bcbits.com/img/a2660684992_16.jpg",
     "country": "Japan",
     "artists": [
       "OldTypeUseIncom"
     ],
+    "release_date": "2021-10-01",
     "year": 2021,
+    "added": "2026-09-01",
     "vocal": "no",
     "links": {
       "bandcamp": "https://oldtypeuseincom.bandcamp.com/album/--3"
@@ -592,12 +666,14 @@
   {
     "id": "JTOW77Z4",
     "title": "にじむ",
-    "artwork": "https://f4.bcbits.com/img/a3664409295_10.jpg",
+    "artwork": "https://f4.bcbits.com/img/a3664409295_16.jpg",
     "country": "Japan",
     "artists": [
       "taketake"
     ],
+    "release_date": "2026-06-07",
     "year": 2026,
+    "added": "2026-09-01",
     "vocal": "yes",
     "links": {
       "bandcamp": "https://socialnoisekun.bandcamp.com/track/-"
@@ -607,12 +683,14 @@
   {
     "id": "BPVPd8kQ",
     "title": "PIXEL SUMMER RESTART",
-    "artwork": "https://f4.bcbits.com/img/a1386416745_10.jpg",
+    "artwork": "https://f4.bcbits.com/img/a1386416745_16.jpg",
     "country": "Japan",
     "artists": [
       "レインジ"
     ],
+    "release_date": "2026-07-23",
     "year": 2026,
+    "added": "2026-09-01",
     "vocal": "no",
     "links": {
       "bandcamp": "https://lainji.bandcamp.com/album/pixel-summer-restart"
@@ -622,12 +700,14 @@
   {
     "id": "cxOoXbIX",
     "title": "My Originals, vol. 1",
-    "artwork": "https://f4.bcbits.com/img/a0837979150_10.jpg",
+    "artwork": "https://f4.bcbits.com/img/a0837979150_16.jpg",
     "country": "United States",
     "artists": [
       "idogedochiptune"
     ],
+    "release_date": "2023-06-16",
     "year": 2023,
+    "added": "2026-09-01",
     "vocal": "no",
     "links": {
       "bandcamp": "https://idogedochiptune.bandcamp.com/album/my-originals-vol-1"
@@ -637,17 +717,270 @@
   {
     "id": "CdCUmlgE",
     "title": "Attempts for Soundchips Volume 2",
-    "artwork": "https://f4.bcbits.com/img/a3539746322_10.jpg",
+    "artwork": "https://f4.bcbits.com/img/a3539746322_16.jpg",
     "country": "Japan",
     "artists": [
       "Rei8bit"
     ],
+    "release_date": "2026-02-06",
     "year": 2026,
+    "added": "2026-09-01",
     "vocal": "no",
     "links": {
       "bandcamp": "https://rei8bit.bandcamp.com/album/attempts-for-soundchips-volume-2",
       "soundcloud": "https://soundcloud.com/rei_8bit/sets/attempts-for-soundchips-volume"
     },
     "comment": "作品を出す度にその成長は止まる事を知らず、もはや誰も到達できない領域に達しつつある気がします。音源への理解度と音楽性の高さに打ちのめされる。"
+  },
+  {
+    "id": "FkctrRxF",
+    "title": "REVERSIBLE MIND",
+    "artwork": "https://f4.bcbits.com/img/a2795380063_16.jpg",
+    "country": "Japan",
+    "artists": [
+      "uraboroshi"
+    ],
+    "release_date": "2017-04-30",
+    "year": 2017,
+    "added": "2026-09-02",
+    "vocal": "no",
+    "links": {
+      "bandcamp": "https://uraboroshi.bandcamp.com/album/reversible-mind"
+    },
+    "comment": ""
+  },
+  {
+    "id": "JjkrUCvw",
+    "title": "Anthropomorphosis",
+    "artwork": "https://f4.bcbits.com/img/a3029037730_16.jpg",
+    "country": "Australia",
+    "artists": [
+      "Aquellex"
+    ],
+    "release_date": "2023-10-10",
+    "year": 2023,
+    "added": "2026-09-02",
+    "vocal": "no",
+    "links": {
+      "bandcamp": "https://aquellex.bandcamp.com/album/anthropomorphosis",
+      "soundcloud": "https://soundcloud.com/aquellex/sets/anthropomorphosis"
+    },
+    "comment": ""
+  },
+  {
+    "id": "i5Bf9LiI",
+    "title": "Slycology",
+    "artwork": "https://f4.bcbits.com/img/a3912871223_16.jpg",
+    "country": "United States",
+    "artists": [
+      "DEFENSE MECHANISM"
+    ],
+    "release_date": "2022-01-10",
+    "year": 2022,
+    "added": "2026-09-02",
+    "vocal": "no",
+    "links": {
+      "bandcamp": "https://defensemechanism.bandcamp.com/album/slycology"
+    },
+    "comment": ""
+  },
+  {
+    "id": "gPsKOOud",
+    "title": "Castle in the Clouds OST",
+    "artwork": "https://f4.bcbits.com/img/a2821027521_16.jpg",
+    "country": "United States",
+    "artists": [
+      "g3ntlebreeze"
+    ],
+    "release_date": "2021-10-09",
+    "year": 2021,
+    "added": "2026-09-02",
+    "vocal": "no",
+    "links": {
+      "bandcamp": "https://g3ntlebreeze.bandcamp.com/album/castle-in-the-clouds-ost",
+      "spotify": "https://open.spotify.com/intl-ja/album/05GFTorE0n3qIKXLXbuFFr?si=3YKzw5VmRwmu-GOmFZFj2A",
+      "youtube": "https://www.youtube.com/watch?v=Kywl9Dri7nk",
+      "soundcloud": "https://soundcloud.com/g3ntlebreeze/sets/castle-in-the-clouds-ost"
+    },
+    "comment": ""
+  },
+  {
+    "id": "9ZHo7m9r",
+    "title": "1st demo Hello,World!",
+    "artwork": "https://f4.bcbits.com/img/a0044266804_16.jpg",
+    "country": "Japan",
+    "artists": [
+      "RASTER"
+    ],
+    "release_date": "2023-10-14",
+    "year": 2023,
+    "added": "2026-09-02",
+    "vocal": "yes",
+    "links": {
+      "bandcamp": "https://raster8bit.bandcamp.com/album/1st-demo-hello-world",
+      "spotify": "https://open.spotify.com/intl-ja/album/4SOwznOX2LWA28UbImzjBZ?si=wgTBCjJNR7eUvu_kgAq5HA",
+      "youtube": "https://www.youtube.com/watch?v=DK_rDPOvBF0&list=PL8MTBU-PAW2DO6gMlQTu-XgeOaQK_ZrER"
+    },
+    "comment": ""
+  },
+  {
+    "id": "zJVUXw4d",
+    "title": "Happiness In Your Face",
+    "artwork": "https://f4.bcbits.com/img/a1243971032_16.jpg",
+    "country": "Germany",
+    "artists": [
+      "ko0x"
+    ],
+    "release_date": "2018-05-24",
+    "year": 2018,
+    "added": "2026-09-02",
+    "vocal": "no",
+    "links": {
+      "bandcamp": "https://ko0x.bandcamp.com/album/happiness-in-your-face",
+      "spotify": "https://open.spotify.com/intl-ja/album/5eRYLVzkbMwVBaiTbyHbkq?si=nRFm3HMqRY-Y2Ls_0Z1TSg",
+      "youtube": "https://www.youtube.com/watch?v=ys4eKcBQ4yQ&list=OLAK5uy_mGfUrHzAAkKGlcwqMvKEfzIVappS4uTIw"
+    },
+    "comment": ""
+  },
+  {
+    "id": "11eYdzIV",
+    "title": "My Prevalence",
+    "artwork": "https://f4.bcbits.com/img/a4063578303_16.jpg",
+    "country": "Argentina",
+    "artists": [
+      "SnugglyBun"
+    ],
+    "release_date": "2025-02-18",
+    "year": 2025,
+    "added": "2026-09-02",
+    "vocal": "no",
+    "links": {
+      "bandcamp": "https://valeriasan.bandcamp.com/album/my-prevalence",
+      "youtube": "https://www.youtube.com/watch?v=JHjy1APGQBg"
+    },
+    "comment": ""
+  },
+  {
+    "id": "FQgBIBYU",
+    "title": "Rabbit Beat!",
+    "artwork": "https://f4.bcbits.com/img/a2950837801_16.jpg",
+    "country": "Japan",
+    "artists": [
+      "あみる"
+    ],
+    "release_date": "2023-04-28",
+    "year": 2023,
+    "added": "2026-09-02",
+    "vocal": "no",
+    "links": {
+      "bandcamp": "https://amirrabbitbeat.bandcamp.com/album/rabbit-beat"
+    },
+    "comment": ""
+  },
+  {
+    "id": "Ea9OWGRT",
+    "title": "鬼々快々",
+    "artwork": "https://f4.bcbits.com/img/a3354467710_16.jpg",
+    "country": "Japan",
+    "artists": [
+      "momoQui"
+    ],
+    "release_date": "2023-10-21",
+    "year": 2023,
+    "added": "2026-09-02",
+    "vocal": "yes",
+    "links": {
+      "bandcamp": "https://novtos.bandcamp.com/album/--5"
+    },
+    "comment": "しのりゅーとらうによるユニットmomoQuiのEP。スーパーレトロヨスギ団。"
+  },
+  {
+    "id": "tyhvC6pr",
+    "title": "Tropic Hour",
+    "artwork": "https://f4.bcbits.com/img/a4254762292_16.jpg",
+    "country": "",
+    "artists": [
+      "ComboMon"
+    ],
+    "release_date": "2024-03-01",
+    "year": 2024,
+    "added": "2026-09-02",
+    "vocal": "no",
+    "links": {
+      "bandcamp": "https://combomon.bandcamp.com/album/tropic-hour",
+      "youtube": "https://www.youtube.com/watch?v=ppwxSqd1WUA",
+      "soundcloud": "https://soundcloud.com/user-771610605/sets/tropic-hour"
+    },
+    "comment": ""
+  },
+  {
+    "id": "IMwuJPdn",
+    "title": "Turnip Mountain - Original Soundtrack",
+    "artwork": "https://f4.bcbits.com/img/a1337424172_16.jpg",
+    "country": "United States",
+    "artists": [
+      "IsabelleChiming"
+    ],
+    "release_date": "2026-07-30",
+    "year": 2026,
+    "added": "2026-09-02",
+    "vocal": "no",
+    "links": {
+      "bandcamp": "https://isabellechiming.bandcamp.com/album/turnip-mountain-original-soundtrack"
+    },
+    "comment": ""
+  },
+  {
+    "id": "VCRMxr44",
+    "title": "AnovaAdvanced",
+    "artwork": "https://f4.bcbits.com/img/a0786132619_16.jpg",
+    "country": "Japan",
+    "artists": [
+      "Becoming a Speck"
+    ],
+    "release_date": "2023-12-30",
+    "year": 2023,
+    "added": "2026-09-02",
+    "vocal": "no",
+    "links": {
+      "bandcamp": "https://becomingaspeck.bandcamp.com/album/anovaadvanced"
+    },
+    "comment": ""
+  },
+  {
+    "id": "bvPwz8CQ",
+    "title": "Songs for Summer",
+    "artwork": "https://f4.bcbits.com/img/a3128581858_16.jpg",
+    "country": "United States",
+    "artists": [
+      "lavande"
+    ],
+    "release_date": "2019-08-14",
+    "year": 2019,
+    "added": "2026-09-02",
+    "vocal": "no",
+    "links": {
+      "bandcamp": "https://lavande.bandcamp.com/album/songs-for-summer"
+    },
+    "comment": ""
+  },
+  {
+    "id": "mufqPUNj",
+    "title": "Tracker Vision 2",
+    "artwork": "https://f4.bcbits.com/img/a3971570567_16.jpg",
+    "country": "United States",
+    "artists": [
+      "Button Masher"
+    ],
+    "release_date": "2023-04-28",
+    "year": 2023,
+    "added": "2026-09-02",
+    "vocal": "no",
+    "links": {
+      "bandcamp": "https://buttonmasher1.bandcamp.com/album/tracker-vision-2",
+      "spotify": "https://open.spotify.com/album/2kuAq1TKI9j2j4muLAAyH7?si=JEmpZOn4T6ChEDlhzeAF6Q",
+      "soundcloud": "https://soundcloud.com/button-masher-486000334/sets/tracker-vision-2"
+    },
+    "comment": ""
   }
 ]

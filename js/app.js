@@ -4,10 +4,10 @@ fetch("data/releases.json")
   .then(response => response.json())
   .then(releases => {
 
-allReleases = releases;
+    allReleases = releases;
 
-setupFilters(releases);
-applyFilters();
+    setupFilters(releases);
+    applyFilters();
 
   })
   .catch(error => {
@@ -97,14 +97,61 @@ function applyFilters() {
   });
 
 
-  if (sort === "newest") {
+  // Added順
+  if (sort === "added-newest") {
 
-    filtered.sort((a, b) => b.year - a.year);
+    filtered.sort((a, b) =>
+      (b.added || "").localeCompare(a.added || "")
+    );
 
-  } else if (sort === "oldest") {
+  } else if (sort === "added-oldest") {
 
-    filtered.sort((a, b) => a.year - b.year);
+    filtered.sort((a, b) =>
+      (a.added || "").localeCompare(b.added || "")
+    );
 
+
+  // Release Date順
+  } else if (sort === "release-newest") {
+
+    filtered.sort((a, b) => {
+
+      const dateCompare =
+        (b.release_date || "").localeCompare(
+          a.release_date || ""
+        );
+
+      // Release Dateが同じならAddedの新しい順
+      if (dateCompare !== 0) {
+        return dateCompare;
+      }
+
+      return (b.added || "").localeCompare(
+        a.added || ""
+      );
+    });
+
+  } else if (sort === "release-oldest") {
+
+    filtered.sort((a, b) => {
+
+      const dateCompare =
+        (a.release_date || "").localeCompare(
+          b.release_date || ""
+        );
+
+      // Release Dateが同じならAddedの古い順
+      if (dateCompare !== 0) {
+        return dateCompare;
+      }
+
+      return (a.added || "").localeCompare(
+        b.added || ""
+      );
+    });
+
+
+  // Artist順
   } else if (sort === "artist") {
 
     filtered.sort((a, b) =>
@@ -115,6 +162,8 @@ function applyFilters() {
       )
     );
 
+
+  // Title順
   } else if (sort === "title") {
 
     filtered.sort((a, b) =>

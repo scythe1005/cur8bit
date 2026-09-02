@@ -89,7 +89,7 @@ container.innerHTML = `
         ${artistLinks}
       </p>
 
-      <p>${release.year}</p>
+      <p>${release.release_date}</p>
 
       <p>${release.country}</p>
 
