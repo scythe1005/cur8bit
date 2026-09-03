@@ -210,7 +210,7 @@
       "youtube": "https://www.youtube.com/watch?v=nqwxH9SBS3E",
       "soundcloud": "https://soundcloud.com/ugokuball/sets/inori-acrylic-flower"
     },
-    "comment": "哀愁あるメロディが良すぎる。"
+    "comment": "切ないメロディに全体を通して優しい音色と抑揚のある展開でそれぞれ1曲を通して物語を読むような気持ちで聴ける名盤。チップと生楽器のミックスバランスも非常に良いと思います。"
   },
   {
     "id": "wYFYgtz5",
@@ -266,7 +266,7 @@
       "bandcamp": "https://tuberzmcgee.bandcamp.com/album/tuberz-mcgee-and-the-contractual-obligation-to-write-a-second-album",
       "spotify": "https://open.spotify.com/intl-ja/album/7C8OhlEK830QceXpUKHCuq?si=DG2GeANvT7We8YlrjrVm_w"
     },
-    "comment": ""
+    "comment": "いつもポップでいいメロディ。バンドサウンドとチップ音色の混ぜ方がこのスタイルの人の中で特に上手で聴きやすいのもおすすめポイント。日本語歌詞の3曲目が好きでよく聴いています。"
   },
   {
     "id": "nSlxuyut",
@@ -1122,5 +1122,127 @@
       "youtube": "https://www.youtube.com/playlist?list=OLAK5uy_mQbABpZnHFGUo0q9ZpEq8VVI18ddLmWt0"
     },
     "comment": ""
+  },
+  {
+    "id": "psFPTl81",
+    "title": "Bunny Hop",
+    "artwork": "https://f4.bcbits.com/img/a0778110257_16.jpg",
+    "country": "France",
+    "artists": [
+      "pouale"
+    ],
+    "release_date": "2023-04-02",
+    "year": 2023,
+    "added": "2026-09-03",
+    "vocal": "no",
+    "links": {
+      "bandcamp": "https://pouale.bandcamp.com/album/bunny-hop",
+      "spotify": "https://open.spotify.com/intl-ja/album/0Rfap8KUoWBQzxei9Y97je?si=SEKZGdvPSxGBxxAAilNWVg",
+      "youtube": "https://www.youtube.com/watch?v=fQOP0HsjWyY&list=OLAK5uy_m0S-lV2Z1jf_8TpSMlkkVOUAgLTQ17qho"
+    },
+    "comment": ""
+  },
+  {
+    "id": "rH505goD",
+    "title": "Netpunk",
+    "artwork": "https://f4.bcbits.com/img/a2907195015_16.jpg",
+    "country": "Netherlands",
+    "artists": [
+      "Sunnexo"
+    ],
+    "release_date": "2026-08-08",
+    "year": 2026,
+    "added": "2026-09-03",
+    "vocal": "yes",
+    "links": {
+      "bandcamp": "https://sunnexo.bandcamp.com/album/netpunk"
+    },
+    "comment": ""
+  },
+  {
+    "id": "rbUNOIj8",
+    "title": "yukkerom.ep",
+    "artwork": "https://f4.bcbits.com/img/a4127226875_16.jpg",
+    "country": "Japan",
+    "artists": [
+      "yukkerom"
+    ],
+    "release_date": "2017-08-08",
+    "year": 2017,
+    "added": "2026-09-03",
+    "vocal": "no",
+    "links": {
+      "bandcamp": "https://yukkerom.bandcamp.com/album/yukkerom-ep"
+    },
+    "comment": ""
+  },
+  {
+    "id": "o0IJmRnr",
+    "title": "Dusky Sky",
+    "artwork": "https://f4.bcbits.com/img/a2910903776_16.jpg",
+    "country": "Japan",
+    "artists": [
+      "tom_atom"
+    ],
+    "release_date": "2023-10-20",
+    "year": 2023,
+    "added": "2026-09-03",
+    "vocal": "no",
+    "links": {
+      "bandcamp": "https://tomatom1.bandcamp.com/album/dusky-sky-2"
+    },
+    "comment": ""
+  },
+  {
+    "id": "WL2fZoqz",
+    "title": "Paradise",
+    "artwork": "https://f4.bcbits.com/img/a0769275174_16.jpg",
+    "country": "United States",
+    "artists": [
+      "don'tblinkoryou'lldie"
+    ],
+    "release_date": "2017-01-27",
+    "year": 2017,
+    "added": "2026-09-03",
+    "vocal": "no",
+    "links": {
+      "bandcamp": "https://dboydchipmusic.bandcamp.com/album/paradise"
+    },
+    "comment": ""
+  },
+  {
+    "id": "tbBuRE1n",
+    "title": "aerodynamics of an album",
+    "artwork": "https://f4.bcbits.com/img/a1601141407_16.jpg",
+    "country": "United States",
+    "artists": [
+      "tohomoko"
+    ],
+    "release_date": "2021-11-15",
+    "year": 2021,
+    "added": "2026-09-03",
+    "vocal": "no",
+    "links": {
+      "bandcamp": "https://tohomoko.bandcamp.com/album/aerodynamics-of-an-album",
+      "soundcloud": "https://soundcloud.com/tohomoko/sets/the-aerodynamics-of-an-album-1"
+    },
+    "comment": ""
+  },
+  {
+    "id": "touReOR7",
+    "title": "Breeze 2608",
+    "artwork": "https://i1.sndcdn.com/artworks-000492987330-379hg2-t500x500.jpg",
+    "country": "Japan",
+    "artists": [
+      "maak"
+    ],
+    "release_date": "2019-02-22",
+    "year": 2019,
+    "added": "2026-09-03",
+    "vocal": "no",
+    "links": {
+      "soundcloud": "https://soundcloud.com/maakmusic/breeze-2608"
+    },
+    "comment": "ご本人開発のBambooTrackerのデモソングとしても使われている名曲。"
   }
 ]
