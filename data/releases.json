@@ -1244,5 +1244,44 @@
       "soundcloud": "https://soundcloud.com/maakmusic/breeze-2608"
     },
     "comment": "ご本人開発のBambooTrackerのデモソングとしても使われている名曲。"
+  },
+  {
+    "id": "NtaoBiPn",
+    "title": "Babe, You look Poggers Tonight!",
+    "artwork": "https://f4.bcbits.com/img/a1137592626_16.jpg",
+    "country": "United Kingdom",
+    "artists": [
+      "3xBlast"
+    ],
+    "release_date": "2021-12-12",
+    "year": 2021,
+    "added": "2026-09-03",
+    "vocal": "yes",
+    "links": {
+      "bandcamp": "https://3xblast.bandcamp.com/album/babe-you-look-poggers-tonight",
+      "spotify": "https://open.spotify.com/intl-ja/album/0CANeaunaskrZWSS6bvKVq?si=OnRYfo1cQwOLGf5MD2Q9cQ",
+      "youtube": "https://www.youtube.com/watch?v=cJHH6EpDo00",
+      "soundcloud": "https://soundcloud.com/3xblast/sets/babe-you-look-poggers-tonight"
+    },
+    "comment": ""
+  },
+  {
+    "id": "ecMAVsI9",
+    "title": "it's jazz",
+    "artwork": "https://f4.bcbits.com/img/a1188290195_16.jpg",
+    "country": "Finland",
+    "artists": [
+      "laamaa"
+    ],
+    "release_date": "2026-02-06",
+    "year": 2026,
+    "added": "2026-09-03",
+    "vocal": "no",
+    "links": {
+      "bandcamp": "https://laamaa.bandcamp.com/track/its-jazz",
+      "spotify": "https://open.spotify.com/intl-ja/album/6AQMaxN4CIRjLveBOiPUOa?si=hAn8QrNMSJOP-ibyXoz3fQ",
+      "youtube": "https://www.youtube.com/watch?v=7mth69eZs3g"
+    },
+    "comment": ""
   }
 ]
