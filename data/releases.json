@@ -1243,7 +1243,7 @@
     "links": {
       "soundcloud": "https://soundcloud.com/maakmusic/breeze-2608"
     },
-    "comment": "ご本人開発のBambooTrackerのデモソングとしても使われている名曲。"
+    "comment": "BambooTrackerのデモソングとしても使われている名曲。"
   },
   {
     "id": "NtaoBiPn",
@@ -1281,6 +1281,184 @@
       "bandcamp": "https://laamaa.bandcamp.com/track/its-jazz",
       "spotify": "https://open.spotify.com/intl-ja/album/6AQMaxN4CIRjLveBOiPUOa?si=hAn8QrNMSJOP-ibyXoz3fQ",
       "youtube": "https://www.youtube.com/watch?v=7mth69eZs3g"
+    },
+    "comment": ""
+  },
+  {
+    "id": "aVcJ0zUX",
+    "title": "BLIPS LUNAR",
+    "artwork": "https://f4.bcbits.com/img/a3130685687_16.jpg",
+    "country": "United Kingdom",
+    "artists": [
+      "Blitz Lunar"
+    ],
+    "release_date": "2018-08-24",
+    "year": 2018,
+    "added": "2026-09-04",
+    "vocal": "no",
+    "links": {
+      "bandcamp": "https://blitzlunar.bandcamp.com/album/blips-lunar",
+      "spotify": "https://open.spotify.com/intl-ja/album/2mg5DnigHJS6rXNcJJOkPI?si=qyOPxtlkS4Gi4dZdRVSyKQ",
+      "youtube": "https://www.youtube.com/watch?v=QZpgP8juN0c&list=OLAK5uy_nSS4jf7BfrDPW4ebY6nRa_QFHRvu_tJpA"
+    },
+    "comment": ""
+  },
+  {
+    "id": "Xz5CzCV7",
+    "title": "Super Button Masher",
+    "artwork": "https://f4.bcbits.com/img/a0463670157_16.jpg",
+    "country": "United States",
+    "artists": [
+      "Button Masher"
+    ],
+    "release_date": "2026-09-04",
+    "year": 2026,
+    "added": "2026-09-04",
+    "vocal": "no",
+    "links": {
+      "bandcamp": "https://buttonmasher1.bandcamp.com/album/super-button-masher",
+      "spotify": "https://open.spotify.com/intl-ja/album/20tvOKrQvGzIJoZUVYeCw1?si=FGFV_ecOQTuVyXILicA4uQ"
+    },
+    "comment": ""
+  },
+  {
+    "id": "DNG0eiBo",
+    "title": "Not A Doll",
+    "artwork": "https://f4.bcbits.com/img/a0264334830_16.jpg",
+    "country": "Spain",
+    "artists": [
+      "BettyLoop"
+    ],
+    "release_date": "2015-06-18",
+    "year": 2015,
+    "added": "2026-09-04",
+    "vocal": "no",
+    "links": {
+      "bandcamp": "https://bettyloop.bandcamp.com/album/not-a-doll",
+      "soundcloud": "https://soundcloud.com/betty_loop/sets/notadoll"
+    },
+    "comment": ""
+  },
+  {
+    "id": "eltbV4v8",
+    "title": "Hybrid chip+",
+    "artwork": "https://f4.bcbits.com/img/a0802580695_16.jpg",
+    "country": "United States",
+    "artists": [
+      "ModalModule"
+    ],
+    "release_date": "2022-05-11",
+    "year": 2022,
+    "added": "2026-09-04",
+    "vocal": "no",
+    "links": {
+      "bandcamp": "https://modalmodule.bandcamp.com/album/hybrid-chip"
+    },
+    "comment": ""
+  },
+  {
+    "id": "xzR2HLc9",
+    "title": "Stable Point",
+    "artwork": "https://f4.bcbits.com/img/a2409695073_16.jpg",
+    "country": "Japan",
+    "artists": [
+      "Rei8bit"
+    ],
+    "release_date": "2025-10-28",
+    "year": 2025,
+    "added": "2026-09-04",
+    "vocal": "no",
+    "links": {
+      "bandcamp": "https://rei8bit.bandcamp.com/album/stable-point",
+      "soundcloud": "https://soundcloud.com/rei_8bit/sets/stable-point"
+    },
+    "comment": ""
+  },
+  {
+    "id": "3a0cN9QS",
+    "title": "Midnight Snack",
+    "artwork": "https://f4.bcbits.com/img/a0942649183_16.jpg",
+    "country": "United States",
+    "artists": [
+      "lavande"
+    ],
+    "release_date": "2026-09-04",
+    "year": 2026,
+    "added": "2026-09-04",
+    "vocal": "no",
+    "links": {
+      "bandcamp": "https://lavande.bandcamp.com/album/midnight-snack"
+    },
+    "comment": ""
+  },
+  {
+    "id": "a68h62Jv",
+    "title": "Soundchip Salad",
+    "artwork": "https://f4.bcbits.com/img/a2194915057_16.jpg",
+    "country": "United States",
+    "artists": [
+      "kulor"
+    ],
+    "release_date": "2018-05-17",
+    "year": 2018,
+    "added": "2026-09-04",
+    "vocal": "no",
+    "links": {
+      "bandcamp": "https://kulor.bandcamp.com/album/soundchip-salad",
+      "spotify": "https://open.spotify.com/intl-ja/album/0PIHDBxgDGhWx4V55HoC81?si=Dl6at77dRm2oOFV9pakELg",
+      "soundcloud": "https://soundcloud.com/commodorekulor/sets/soundchip-salad"
+    },
+    "comment": ""
+  },
+  {
+    "id": "IhwNerrp",
+    "title": "FamiTastik Vol.1",
+    "artwork": "https://f4.bcbits.com/img/a4240330861_16.jpg",
+    "country": "Spain",
+    "artists": [
+      "Promtastik"
+    ],
+    "release_date": "2021-01-21",
+    "year": 2021,
+    "added": "2026-09-04",
+    "vocal": "no",
+    "links": {
+      "bandcamp": "https://promtastik.bandcamp.com/album/famitastik-vol-1"
+    },
+    "comment": ""
+  },
+  {
+    "id": "GRhxZMPc",
+    "title": "Information Chase",
+    "artwork": "https://f4.bcbits.com/img/a0262031041_16.jpg",
+    "country": "United States",
+    "artists": [
+      "Bit Shifter"
+    ],
+    "release_date": "2013-07-18",
+    "year": 2013,
+    "added": "2026-09-04",
+    "vocal": "no",
+    "links": {
+      "bandcamp": "https://bit-shifter.bandcamp.com/album/information-chase",
+      "youtube": "https://www.youtube.com/watch?v=cQ76XyALKM4&list=PLqFdynpgEOPew2I2oiFnAs22bifRYRQU4"
+    },
+    "comment": ""
+  },
+  {
+    "id": "wfgrWNNX",
+    "title": "Souldier",
+    "artwork": "https://i1.sndcdn.com/artworks-YMZabFq7NiGQoxfB-6osHjg-t500x500.jpg",
+    "country": "Japan",
+    "artists": [
+      "gomhi"
+    ],
+    "release_date": "2022-08-17",
+    "year": 2022,
+    "added": "2026-09-04",
+    "vocal": "no",
+    "links": {
+      "soundcloud": "https://soundcloud.com/gomhi/souldier"
     },
     "comment": ""
   }
