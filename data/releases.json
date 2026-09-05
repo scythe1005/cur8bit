@@ -928,7 +928,7 @@
     "links": {
       "bandcamp": "https://isabellechiming.bandcamp.com/album/turnip-mountain-original-soundtrack"
     },
-    "comment": ""
+    "comment": "ミニゲーム版のTiny Turnipと違いこちらはVRC6とFDSを使用したOST。どちらも各音源の使い方が素晴らしく、楽曲としても非常に聴きやすい。Famicaloid Miku(ふぁミクと同じ？)を使用した特徴的なリードが印象的。よく聞いたらずっとあいうえおで笑顔。"
   },
   {
     "id": "VCRMxr44",
@@ -1496,5 +1496,22 @@
       "bandcamp": "https://kufrecords.bandcamp.com/album/modchip-ep-07"
     },
     "comment": "MARU303氏主催KUF RECORDSの7枚目のEP。一周年おめでとうございます。音楽も毎回いいんですが毎回アートワークが好きで楽しみにしている。"
+  },
+  {
+    "id": "VmoyJXWs",
+    "title": "Tiny Turnip - Original Soundtrack",
+    "artwork": "https://f4.bcbits.com/img/a3613801215_16.jpg",
+    "country": "United States",
+    "artists": [
+      "IsabelleChiming"
+    ],
+    "release_date": "2025-06-26",
+    "year": 2025,
+    "added": "2026-09-05",
+    "vocal": "no",
+    "links": {
+      "bandcamp": "https://isabellechiming.bandcamp.com/album/tiny-turnip-original-soundtrack"
+    },
+    "comment": "Turnip Mountainのミニ版となるPlaydate用ゲームのOST。N163の美しい波形が際立つ良曲揃い。"
   }
 ]
