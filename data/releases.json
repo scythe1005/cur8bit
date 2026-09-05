@@ -1243,7 +1243,7 @@
     "links": {
       "soundcloud": "https://soundcloud.com/maakmusic/breeze-2608"
     },
-    "comment": "BambooTrackerのデモソングとしても使われている名曲。"
+    "comment": "BambooTrackerのデモソングとしても使われている名曲。イントロ抜けて入ってくるフィルターがかったシンセ音色の高揚感が最高過ぎる。"
   },
   {
     "id": "NtaoBiPn",
@@ -1461,5 +1461,40 @@
       "soundcloud": "https://soundcloud.com/gomhi/souldier"
     },
     "comment": ""
+  },
+  {
+    "id": "oluOGcGG",
+    "title": "ジェネシス・スクール",
+    "artwork": "https://f4.bcbits.com/img/a4098182242_16.jpg",
+    "country": "Japan",
+    "artists": [
+      "kawashin"
+    ],
+    "release_date": "2025-04-01",
+    "year": 2025,
+    "added": "2026-09-05",
+    "vocal": "no",
+    "links": {
+      "bandcamp": "https://kawashin.bandcamp.com/album/-"
+    },
+    "comment": ""
+  },
+  {
+    "id": "IfPObRpL",
+    "title": "MODCHIP EP-07",
+    "artwork": "https://f4.bcbits.com/img/a2714018058_16.jpg",
+    "country": "Japan",
+    "artists": [
+      "撲殺少女工房",
+      "MARU303"
+    ],
+    "release_date": "2026-09-04",
+    "year": 2026,
+    "added": "2026-09-05",
+    "vocal": "no",
+    "links": {
+      "bandcamp": "https://kufrecords.bandcamp.com/album/modchip-ep-07"
+    },
+    "comment": "MARU303氏主催KUF RECORDSの7枚目のEP。一周年おめでとうございます。音楽も毎回いいんですが毎回アートワークが好きで楽しみにしている。"
   }
 ]
