@@ -1513,5 +1513,25 @@
       "bandcamp": "https://isabellechiming.bandcamp.com/album/tiny-turnip-original-soundtrack"
     },
     "comment": "Turnip Mountainのミニ版となるPlaydate用ゲームのOST。N163の美しい波形が際立つ良曲揃い。"
+  },
+  {
+    "id": "dSdaVH6i",
+    "title": "Summer Jamz",
+    "artwork": "https://f4.bcbits.com/img/a4021412890_16.jpg",
+    "country": "United States",
+    "artists": [
+      "Aethernaut"
+    ],
+    "release_date": "2017-09-02",
+    "year": 2017,
+    "added": "2026-09-06",
+    "vocal": "yes",
+    "links": {
+      "bandcamp": "https://aethernaut.bandcamp.com/album/summer-jamz",
+      "spotify": "https://open.spotify.com/intl-ja/album/37q9g06N17EiOEqzAtphw1?si=iw07f2yBSdiRFSyhsJQiEQ",
+      "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_kAM4FKZV5k6i2y7jNXgQkIMR_kEQeBV1Y",
+      "soundcloud": "https://soundcloud.com/aethernaut/sets/summer-jamz-vol-4"
+    },
+    "comment": ""
   }
 ]
