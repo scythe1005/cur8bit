@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://scythe1005.github.io/cur8bit/sitemap.xml
