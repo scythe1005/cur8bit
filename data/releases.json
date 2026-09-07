@@ -1533,5 +1533,100 @@
       "soundcloud": "https://soundcloud.com/aethernaut/sets/summer-jamz-vol-4"
     },
     "comment": ""
+  },
+  {
+    "id": "UvLbdzgE",
+    "title": "The Progression",
+    "artwork": "https://f4.bcbits.com/img/a3205015340_16.jpg",
+    "country": "United Kingdom",
+    "artists": [
+      "H-Mister"
+    ],
+    "release_date": "2021-11-12",
+    "year": 2021,
+    "added": "2026-09-07",
+    "vocal": "no",
+    "links": {
+      "bandcamp": "https://h-mister.bandcamp.com/album/the-progression",
+      "spotify": "https://open.spotify.com/album/54qH1AyuVmT6irVeMD50dn?si=6R04rNz1QVCzhmUIesoiBg",
+      "soundcloud": "https://soundcloud.com/hmister21/sets/the-progression"
+    },
+    "comment": ""
+  },
+  {
+    "id": "sTkVKCjw",
+    "title": "Golden Chiptune Greats vol. 1",
+    "artwork": "https://f4.bcbits.com/img/a3218196727_16.jpg",
+    "country": "Finland",
+    "artists": [
+      "laamaa"
+    ],
+    "release_date": "2020-09-07",
+    "year": 2020,
+    "added": "2026-09-07",
+    "vocal": "no",
+    "links": {
+      "bandcamp": "https://laamaa.bandcamp.com/album/golden-chiptune-greats-vol-1",
+      "spotify": "https://open.spotify.com/intl-ja/album/2H88X2G3YfonkSJ4a7enKp?si=8oIyuhbcQFaRp4BRGxFK-g",
+      "soundcloud": "https://music.youtube.com/playlist?list=OLAK5uy_kEBAl6OgErrqTEbxv6PGtOaGC8ULcQolA"
+    },
+    "comment": ""
+  },
+  {
+    "id": "aRblLXyC",
+    "title": "7 Songs, Vol. 4",
+    "artwork": "https://f4.bcbits.com/img/a2959703008_2.jpg",
+    "country": "United States",
+    "artists": [
+      "Lonely Bunker"
+    ],
+    "release_date": "2026-01-16",
+    "year": 2026,
+    "added": "2026-09-07",
+    "vocal": "yes",
+    "links": {
+      "bandcamp": "https://lonelybunker.bandcamp.com/album/7-songs-vol-4",
+      "spotify": "https://open.spotify.com/album/1x46Mhfepd7as7yu2upJMM?si=u6-9X0kaTg6KVLzEs0_lPw",
+      "youtube": "https://www.youtube.com/watch?v=wPlzj07wCi0&list=OLAK5uy_nlxl6Trtqoky11IVywk9SOghKS16SL5VA"
+    },
+    "comment": ""
+  },
+  {
+    "id": "9jwg9tje",
+    "title": "7 Songs, Vol. 2",
+    "artwork": "https://f4.bcbits.com/img/a0936177697_16.jpg",
+    "country": "United States",
+    "artists": [
+      "Lonely Bunker"
+    ],
+    "release_date": "2022-08-25",
+    "year": 2022,
+    "added": "2026-09-07",
+    "vocal": "yes",
+    "links": {
+      "bandcamp": "https://lonelybunker.bandcamp.com/album/7-songs-volume-2",
+      "spotify": "https://open.spotify.com/album/0TN833etaDfk4WfBXwf5Gq?si=r7lV8QJXSJOjkFmKhoBkWw",
+      "youtube": "https://www.youtube.com/watch?v=hB9SSO2HI88&list=OLAK5uy_kYYUzMJhys-2iFGKix-tfrz6HV-r62AeI"
+    },
+    "comment": ""
+  },
+  {
+    "id": "rHuoRC5Z",
+    "title": "Your Heart is a Pie Chart",
+    "artwork": "https://f4.bcbits.com/img/a4246704180_16.jpg",
+    "country": "United States",
+    "artists": [
+      "roboctopus"
+    ],
+    "release_date": "2020-06-05",
+    "year": 2020,
+    "added": "2026-09-07",
+    "vocal": "no",
+    "links": {
+      "bandcamp": "https://roboctopus.bandcamp.com/album/your-heart-is-a-pie-chart",
+      "spotify": "https://open.spotify.com/album/4JaQV4aZjHAXeIB9uj2mkr?si=8fzM0wnER1qCYD0P20Fxpg",
+      "youtube": "https://www.youtube.com/watch?v=MEdCDnV8iX8&list=OLAK5uy_nOyi68ysW-bPJ0URNUMA5CCHKa-pVlUjo"
+    },
+    "comment": ""
   }
 ]
