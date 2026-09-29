@@ -1640,11 +1640,69 @@
     "release_date": "2019-05-22",
     "year": 2019,
     "added": "2026-09-10",
-    "vocal": "",
+    "vocal": "no",
     "links": {
+      "bandcamp": "https://tonileys.bandcamp.com/album/orbits",
       "spotify": "https://open.spotify.com/intl-ja/album/24Qzn4w9pUA9c81aBtjF8l?si=33vU9L_fS2-yS-hymqq2XQ",
       "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_kfJdNyrKdQNLWXjCD2Wc015Jo0rBBJaaI",
       "soundcloud": "https://soundcloud.com/tonileys/sets/orbits"
+    },
+    "comment": ""
+  },
+  {
+    "id": "NfdD8i85",
+    "title": "flower",
+    "artwork": "https://f4.bcbits.com/img/a1909049719_16.jpg",
+    "country": "Japan",
+    "artists": [
+      "na<1ms:"
+    ],
+    "release_date": "2019-11-25",
+    "year": 2019,
+    "added": "2026-09-29",
+    "vocal": "yes",
+    "links": {
+      "bandcamp": "https://kyoheifujita.bandcamp.com/album/flower-2",
+      "spotify": "https://open.spotify.com/intl-ja/album/57lTW2YZAgHhIzledcHSRd?si=_oYiwnchTZqO-pkBlAdRRg",
+      "soundcloud": "https://soundcloud.com/kyoheifujita/sets/flower"
+    },
+    "comment": ""
+  },
+  {
+    "id": "qczwYLoX",
+    "title": "UP UP MT. CAKE",
+    "artwork": "https://f4.bcbits.com/img/a2200544851_16.jpg",
+    "country": "Argentina",
+    "artists": [
+      "OISHII"
+    ],
+    "release_date": "2017-03-10",
+    "year": 2017,
+    "added": "2026-09-29",
+    "vocal": "no",
+    "links": {
+      "bandcamp": "https://oishiichan.bandcamp.com/track/up-up-mt-cake",
+      "spotify": "https://open.spotify.com/intl-ja/album/3zBDjq82xiZq5a60crE1yw?si=bRW640zwTrubxbUenahnbA",
+      "youtube": "https://www.youtube.com/watch?v=opUkRtUe8UE",
+      "soundcloud": "https://soundcloud.com/oishiichan/up-up-mt-cake-free-download"
+    },
+    "comment": ""
+  },
+  {
+    "id": "EK4Fo40x",
+    "title": "記憶の機",
+    "artwork": "https://i.scdn.co/image/ab67616d0000aa54f289d0102bd64df241a4bdcb",
+    "country": "Japan",
+    "artists": [
+      "La bit Pluie"
+    ],
+    "release_date": "2025-11-08",
+    "year": 2025,
+    "added": "2026-09-29",
+    "vocal": "yes",
+    "links": {
+      "spotify": "https://open.spotify.com/intl-ja/album/5c74zzz69QUVnSpsvPi89K?si=hYHkeqQ9RvqfHyDZ9KrLKw",
+      "youtube": "https://www.youtube.com/watch?v=W1YlUsCTNtE"
     },
     "comment": ""
   }
