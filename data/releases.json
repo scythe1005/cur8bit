@@ -1655,7 +1655,7 @@
     "artwork": "https://f4.bcbits.com/img/a1909049719_16.jpg",
     "country": "Japan",
     "artists": [
-      "na<1ms:"
+      "kyoheifujita"
     ],
     "release_date": "2019-11-25",
     "year": 2019,
@@ -1703,6 +1703,23 @@
     "links": {
       "spotify": "https://open.spotify.com/intl-ja/album/5c74zzz69QUVnSpsvPi89K?si=hYHkeqQ9RvqfHyDZ9KrLKw",
       "youtube": "https://www.youtube.com/watch?v=W1YlUsCTNtE"
+    },
+    "comment": ""
+  },
+  {
+    "id": "w6aIVYlK",
+    "title": "Cranky Boy",
+    "artwork": "https://f4.bcbits.com/img/a1310566893_16.jpg",
+    "country": "Japan",
+    "artists": [
+      "uraboroshi"
+    ],
+    "release_date": "2026-10-25",
+    "year": 2026,
+    "added": "2026-10-29",
+    "vocal": "no",
+    "links": {
+      "bandcamp": "https://uraboroshi.bandcamp.com/album/cranky-boy"
     },
     "comment": ""
   }
